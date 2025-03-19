@@ -1,0 +1,5741 @@
+[
+  {
+    "_id": "2f153c40-6d74-4cfc-b9e1-41ed088f0e2a",
+    "departmentRef": "a14919ba-07d7-474a-8f63-9648f4d29c87",
+    "name": "อายุรกรรม",
+    "description": "อายุรกรรม",
+    "physicalType": "ro"
+  },
+  {
+    "_id": "61df6f69-787f-47a4-8dcd-6c3a1be3cd4d",
+    "code": 129917,
+    "name": "จุดรับเงิน Manual",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "8baab7e0-f650-47e3-a952-cbd95391e078",
+    "code": 121002,
+    "name": "จุดรับเงินการเงินกลาง 2.2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 11
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "60e6c755-427c-4a33-8661-887fb9b4af3d",
+    "code": 121003,
+    "name": "จุดรับเงินการเงินกลาง 3.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 12
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "979aa5c1-3f8f-4b31-ba4b-09a33149013b",
+    "code": 121004,
+    "name": "จุดรับเงินการเงินกลาง 3.2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 13
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "b245aaa2-f993-4006-8709-a88bee6b02e3",
+    "code": 121005,
+    "name": "จุดรับเงินการเงินกลาง 3.3",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 14
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "0b0acaaf-985e-4d98-8e1c-752895433a6e",
+    "code": 121006,
+    "name": "จุดรับเงินเฉพาะกิจ 1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 15
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "70990961-04b9-4b92-a4c6-86bc14304669",
+    "code": 121007,
+    "name": "จุดรับเงินเฉพาะกิจ 2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 16
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "8a33c741-1965-4206-ab0a-18316d68422c",
+    "code": 121008,
+    "name": "จุดรับเงินเฉพาะกิจ 3",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 17
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "09112720-0e54-46e4-8d8c-08bc4bf82ded",
+    "code": 121009,
+    "name": "จุดรับเงินเฉพาะกิจ 4",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 18
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "f58e3fce-7307-4668-b994-977441909e2e",
+    "code": 121010,
+    "name": "จุดรับเงินผ่าตัดศัลย์ 1.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 19
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "c3cc28ce-e2f0-41a3-9bca-a42e9c40cee3",
+    "code": 121011,
+    "name": "จุดรับเงินเพชรรัตน์ 1.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 20
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "0d6841db-bbe6-443a-9c86-bab6e9ebe60e",
+    "code": 121012,
+    "name": "จุดรับเงินเพชรรัตน์ 1.2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 21
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "00e5fd9a-982f-49aa-8182-49d9c73f84b6",
+    "code": 121013,
+    "name": "จุดรับเงินเพชรรัตน์ 1.3",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 22
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "372daa3f-4490-4ff2-ad9c-a1508e9d7d2d",
+    "code": 121014,
+    "name": "จุดรับเงินเพชรรัตน์ 2.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 23
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "244db3c9-faea-46ab-ba28-7d7e6b52c1a4",
+    "code": 121015,
+    "name": "จุดรับเงินเพชรรัตน์ 2.2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 24
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "7091efc4-350f-4022-83ed-541da500ff12",
+    "code": 121016,
+    "name": "จุดรับเงินเพชรรัตน์ 3.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 25
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "1d2710df-916d-4612-8a9a-4d88722a39b3",
+    "code": 121017,
+    "name": "จุดรับเงินมหาวชิราวุธ 1.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 35
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "c57de6cf-7546-4ed0-92f0-e6c2e08213a2",
+    "code": 121018,
+    "name": "จุดรับเงินสูติกรรม 1.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 26
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "50e50f07-55ff-4abb-8bc5-89cc0b5a638a",
+    "code": 121020,
+    "name": "จุดรับเงินอาคาร 5 ชั้น 3.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 28
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "2bddc898-cabb-473d-a38d-86dbc835f4d2",
+    "code": 121021,
+    "name": "จุดรับเงินอำนวยการ 1.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 29
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "cb42d17a-a28c-49df-8aaf-571460453af4",
+    "code": 121023,
+    "name": "จุดรับเงินอำนวยการ 2.2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 31
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "15bf590b-e757-44b3-b49f-530a1bde704b",
+    "code": 121024,
+    "name": "จุดรับเงินอำนวยการ 2.3",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 32
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "6bf43ee3-448f-49c7-9094-55fcb1099089",
+    "code": 121025,
+    "name": "จุดรับเงินอำนวยการ 2.4",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 33
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "2d3edf6b-aabf-4929-9a5f-1b6540c1dd0d",
+    "code": 121026,
+    "name": "จุดรับเงินอำนวยการ 4.1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 34
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "1c949d01-9e20-4304-9ab1-64cccaae49d7",
+    "code": 129904,
+    "name": "จุดรับเงินทดสอบรับเงิน",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 47
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "1915ec38-7189-4d28-a72e-521f15b57c9e",
+    "code": 100021,
+    "name": "จุดรับเงินคณะพยาบาลฯ 1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 52
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "8acc379e-c46e-4b62-9d23-91566095ae36",
+    "code": 100022,
+    "name": "จุดรับเงินคณะพยาบาลฯ 2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 53
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "aa3e4863-877d-42e0-a8c3-cc37320b1740",
+    "code": 129916,
+    "name": "จุดคืนเงิน",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 50
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "f6493b7f-ef20-44fa-9abf-59fafd4f7bb7",
+    "code": 129909,
+    "name": "จุดรับเงินแรงงานต่างด้าว 1",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 38
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "7a004b5e-02e5-458f-bc4d-0a8eaf99bf70",
+    "code": 129910,
+    "name": "จุดรับเงินแรงงานต่างด้าว 2",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 55
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "3cb4cd22-42aa-4cca-8e2f-a66b0c036716",
+    "code": 129918,
+    "name": "จุดรับเงินห้องยาล่าง ชั้น G",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 0
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "afd89700-b5f7-40c2-8085-580e4ac29fc3",
+    "code": 129919,
+    "name": "จุดรับเงินจัดเก็บรายได้",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 0
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "1dd85fbe-961a-4287-ac69-324b51dfd5b3",
+    "code": 129920,
+    "name": "จุดรับเงินLINAC",
+    "type": "cashier",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 0
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "f7f07757-f018-4228-9336-95f0ecfc9823",
+    "code": 129921,
+    "type": "screening",
+    "name": "Kiosk ทีปังกร ชั้น G (1)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 56
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "204701d7-ab5a-4d01-b0bb-0df8f8f53958",
+    "code": 121028,
+    "type": "cashier",
+    "name": "จุดรับเงินทีปังกร 1.1",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 41
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "93b84161-d4ce-4c12-ae18-04c202a48dfb",
+    "code": 121029,
+    "type": "cashier",
+    "name": "จุดรับเงินทีปังกร 1.2",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 36
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "d62f8634-df17-423b-b147-8c89a49e2250",
+    "code": 121030,
+    "type": "cashier",
+    "name": "จุดรับเงินทีปังกร 1.3",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 37
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "9cdc5581-bdfe-4853-bcf2-0cc5a303941d",
+    "code": 121031,
+    "type": "cashier",
+    "name": "จุดรับเงินทีปังกร 1.4",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 54
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "467d275c-e4dd-4615-98d2-4f4e0733cd32",
+    "code": 121032,
+    "type": "cashier",
+    "name": "จุดรับเงินทีปังกร B 2.1",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 39
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "08d09c92-91fa-4003-8c0d-9fe13efb13a4",
+    "code": 129930,
+    "name": "Kiosk อาคารกายภาพ Lab ชั้น 3 (1)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 65
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "0a901ef4-b6b0-4e1e-ad16-976a4cb5c500",
+    "code": 129929,
+    "name": "Kiosk มหาวชิราวุธ Xray ชั้น G (1)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 64
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "138e5940-e572-482b-860b-2d3c89f04e23",
+    "code": 129928,
+    "type": "screening",
+    "name": "Kiosk เพชรรัตน ชั้น G (2)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 63
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "8f416f86-9dd5-4029-ad13-1ff3da666544",
+    "code": 129927,
+    "type": "screening",
+    "name": "Kiosk เพชรรัตน ชั้น G (1)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 62
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "8769b276-4098-4401-b9b5-e1caf5f71494",
+    "code": 129926,
+    "name": "Kiosk ทีปังกร ห้องเจาะเลือด B1 (6)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 61
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "17c6672d-4b48-48a1-83fb-31af98f0652e",
+    "code": 129925,
+    "type": "screening",
+    "name": "Kiosk ทีปังกร ชั้น B1 ทันตกรรม (5)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 60
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "0525eb1f-6fae-4426-804a-bc40475bcac5",
+    "code": 129924,
+    "type": "screening",
+    "name": "Kiosk ทีปังกร ชั้น G (4)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 59
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "8dec418a-a1f8-47f0-bee7-108bf224dabc",
+    "code": 129923,
+    "type": "screening",
+    "name": "Kiosk ทีปังกร ชั้น G (3)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 58
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "acb041a1-1f93-4452-a4b0-477f0d0131cd",
+    "code": 129922,
+    "type": "screening",
+    "name": "Kiosk ทีปังกร ชั้น G (2)",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 57
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "bf9506ba-2036-407b-b3bd-a838bd2c3d73",
+    "code": 129931,
+    "name": "จุดตัดยอดตู้ Kiosk_ktb",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 66
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "2a52bc6e-864a-4e66-9787-4c18fefe7ab6",
+    "code": 129932,
+    "type": "cashier",
+    "name": "จุดรับเงินเทศมหาชาติ 1",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 69
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "6f90feda-b4f2-4508-8a34-db209b77e525",
+    "code": 129933,
+    "type": "cashier",
+    "name": "จุดรับเงินเทศมหาชาติ 2",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 70
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "86125825-cf66-4fd2-93f8-d9a7e3a456dc",
+    "code": 121001,
+    "type": "cashier",
+    "name": "จุดรับเงินการเงินกลาง 2.1",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 10
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "c4d59a56-afcc-4fc3-b6f0-33e2d86ac662",
+    "code": 121019,
+    "type": "cashier",
+    "name": "จุดรับเงินสูติกรรม 1.2",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 27
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "c89cf230-1cd8-42fe-b87c-f202d46729e2",
+    "code": 121022,
+    "type": "cashier",
+    "name": "จุดรับเงินอำนวยการ 2.1",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 30
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "88a921ee-9afd-4285-b9a4-58f6e2cfa487",
+    "code": 129936,
+    "type": "cashier",
+    "name": "จุดรับเงิน PUI",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 82
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "fa340030-045d-4074-a875-96409be5470b",
+    "code": 129934,
+    "type": "cashier",
+    "name": "จุดรับเงิน ARI",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 97
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "12fa7bd8-a465-4532-9261-4447df519a54",
+    "code": 129939,
+    "type": "cashier",
+    "name": "จุดรับเงินเป่าตังค์",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 88
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "4705c8cc-08bc-4532-88a3-b23d482af3f3",
+    "code": 129937,
+    "type": "cashier",
+    "name": "จุดรับเงินรับบริจาค",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 84
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "0e92ec15-a313-4c0f-943e-96ff7c6e9a13",
+    "code": 129935,
+    "type": "cashier",
+    "name": "จุดรับเงิน ARI 1.1",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 81
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "0b34e297-4660-438b-879d-1d347843be9f",
+    "code": 129938,
+    "type": "cashier",
+    "name": "จุดรับเงิน อิเล็กทรอนิกส์ Direct Link",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 71
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "173522fe-dd36-4169-80f6-1f2d4b50ca4c",
+    "code": 129941,
+    "type": "cashier",
+    "name": "จุดรับเงิน UhosNet",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 72
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "b53965fd-ea5e-42a5-a85c-aa3960e7554a",
+    "code": 129943,
+    "type": "cashier",
+    "name": "จุดรับเงินเป่าตุง",
+    "physicalType": "other",
+    "departmentRef": "1fde7f97-ea90-45ea-91fe-ffb1b55adbc5",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 88
+      }
+    ],
+    "subClinicRef": "db783913-4440-4a64-b9fb-e44ff11de1ea"
+  },
+  {
+    "_id": "6868b2b3-a63e-4090-848b-4dffb247d919",
+    "code": 129945,
+    "name": "Ns",
+    "subClinicRef": "b182b951-3b37-425d-938c-78fdc3216a47"
+  },
+  {
+    "_id": "78b332b9-723c-4ab5-ba68-2aecded12794",
+    "code": 129946,
+    "name": "สมด1",
+    "subClinicRef": "33e8b27b-1ee2-4471-930c-97db108ac17a"
+  },
+  {
+    "_id": "afe779d3-770f-4a64-a0c0-211fad4a3777",
+    "code": 130043,
+    "name": "แยก1",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "79632ec3-b5e7-4d73-9d62-c39aa3c3da9e",
+    "code": 130042,
+    "name": "แยก2",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "8ca70a72-4af1-46e0-8d99-e8f497c8dc0f",
+    "code": 129960,
+    "name": "สม",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "5452d9d8-1a3d-4fa1-8ed1-7c64ec4b466e",
+    "code": 129951,
+    "name": "807",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "75f0e7bd-e5a3-4daf-8e34-b34721c67cae",
+    "code": 129959,
+    "name": "803",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "0a2ad7f3-5779-4e61-bc34-59af851491f4",
+    "code": 129955,
+    "name": "806",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "c1a01de5-dddf-4b94-882c-76c4464be1a4",
+    "code": 129954,
+    "name": "808",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "41c71a0a-f2df-4e8a-887b-b28070345f90",
+    "code": 129950,
+    "name": "805",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "a614cd19-5f06-45ce-a546-565a021a0135",
+    "code": 129958,
+    "name": "802",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "1988d15c-8659-40a8-9f74-bb7037077240",
+    "code": 129957,
+    "name": "809",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "1357f01b-3bfe-4573-9cb3-73084b0179cc",
+    "code": 129956,
+    "name": "804",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "f74391ef-6c00-4bbe-b935-c3dcd53f6a0d",
+    "code": 129963,
+    "name": "NICU",
+    "subClinicRef": "7f9ab866-f127-4137-95cb-fed78feaeb53"
+  },
+  {
+    "_id": "6f9b69ca-a9ac-462a-b5b4-e56526e4d09b",
+    "code": 129964,
+    "name": "PICU",
+    "subClinicRef": "88b2b7fb-d455-4831-8040-1b98a9105caf"
+  },
+  {
+    "_id": "94eae534-9261-4131-8371-c6c698c765a0",
+    "code": 129944,
+    "name": "NSCU",
+    "subClinicRef": "d26ef8d2-1ce0-445f-afa5-1f6b3108f411"
+  },
+  {
+    "_id": "db3f0f42-1c7d-4661-a13d-229c9b8b3f5a",
+    "code": 129965,
+    "name": "พศรวม",
+    "subClinicRef": "a2f926e1-3de4-4152-ae8a-e3ef558ff2bc"
+  },
+  {
+    "_id": "4501b10b-4524-4727-b63c-12fae710e9c6",
+    "code": 129967,
+    "name": "สม1",
+    "subClinicRef": "a2f926e1-3de4-4152-ae8a-e3ef558ff2bc"
+  },
+  {
+    "_id": "13d05f4d-47ac-4779-b549-a74bb0e32cb6",
+    "code": 129966,
+    "name": "พศ1",
+    "subClinicRef": "a2f926e1-3de4-4152-ae8a-e3ef558ff2bc"
+  },
+  {
+    "_id": "203f5bb1-62d3-4aa2-8484-6df59efcbaa6",
+    "code": 129968,
+    "name": "พศ4",
+    "subClinicRef": "a2f926e1-3de4-4152-ae8a-e3ef558ff2bc"
+  },
+  {
+    "_id": "78b539b4-3e0f-4f46-b1e6-d4220f3745fb",
+    "code": 129970,
+    "name": "0801",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "3f2fd3d5-8352-4763-a60e-cc044add02cd",
+    "code": 129980,
+    "name": "0804",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "2053c6bd-912b-49a1-9926-086589a3bfb7",
+    "code": 129984,
+    "name": "เสริม01",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "0a09c6d5-c05d-46fb-a159-89211083b721",
+    "code": 129975,
+    "name": "0805",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "fbaadc0a-ddb8-4717-bb68-dee44b39c114",
+    "code": 129977,
+    "name": "0809",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "35f223be-0aab-48de-8bb7-2bda8588c094",
+    "code": 129971,
+    "name": "0806",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "e0796e73-c4b7-49ba-8f7e-82807f748a6d",
+    "code": 129981,
+    "name": "0814",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "110ad7f3-68d2-448c-9fbb-6b2e6e746a56",
+    "code": 129979,
+    "name": "0810",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "51ec6274-9c74-4062-b68c-011cdaac5c0f",
+    "code": 129974,
+    "name": "0815",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "15d2fb83-75a0-4e9b-bab0-0cd911866c8e",
+    "code": 129969,
+    "name": "0808",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "d5b92bc3-f16c-4038-91db-4c2a5e5843f4",
+    "code": 129973,
+    "name": "0811",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "87fe2d4f-ea92-418c-8ee0-e0b960309408",
+    "code": 129972,
+    "name": "0803",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "8d196b84-c656-41ad-9416-be4fc8123e34",
+    "code": 129983,
+    "name": "0812",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "42dabc45-ea5f-47f5-98b3-68b8cb8d5091",
+    "code": 129978,
+    "name": "0802",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "24db0559-9f89-43ed-bd8e-ea3c9e62a0f5",
+    "code": 129976,
+    "name": "0813",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "201080a7-8f51-4e79-b092-16e5155c2f5c",
+    "code": 129982,
+    "name": "0807",
+    "subClinicRef": "420780ae-298d-4d90-93f0-0e60e56df3a4"
+  },
+  {
+    "_id": "bd206475-abd2-4181-bc38-0c3ddd15520c",
+    "code": 129985,
+    "name": "EMICU",
+    "subClinicRef": "91849a78-e468-47a7-91bc-efebef56d85d"
+  },
+  {
+    "_id": "b5559ab6-c573-4170-a0fa-527b6c850409",
+    "code": 129988,
+    "name": "01",
+    "subClinicRef": "73fcaccd-9cea-4fac-ac6b-64e65290aff1"
+  },
+  {
+    "_id": "94c84462-2c1e-4c61-8a04-235140b99408",
+    "code": 129987,
+    "name": "02",
+    "subClinicRef": "73fcaccd-9cea-4fac-ac6b-64e65290aff1"
+  },
+  {
+    "_id": "fdc0b741-f85c-4606-98b7-65dcccda669c",
+    "code": 130040,
+    "name": "03",
+    "subClinicRef": "354147f4-1666-4375-a536-1be84346d743"
+  },
+  {
+    "_id": "317e383e-c8ed-4fe4-a82e-789ad4ac5ad2",
+    "code": 129986,
+    "name": "04",
+    "subClinicRef": "73fcaccd-9cea-4fac-ac6b-64e65290aff1"
+  },
+  {
+    "_id": "757cd79b-c721-4da1-87ad-6e94a38a453a",
+    "code": 129992,
+    "name": "สม2",
+    "subClinicRef": "28a09f9e-d446-4f06-9c29-1efca9279f78"
+  },
+  {
+    "_id": "ef05d967-e20a-4ee6-9fb5-95dad4ed37ae",
+    "code": 129991,
+    "name": "สม3",
+    "subClinicRef": "28a09f9e-d446-4f06-9c29-1efca9279f78"
+  },
+  {
+    "_id": "efff4dfe-1470-4c66-bafe-6255c6f2723a",
+    "code": 129996,
+    "name": "0901",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "14729d85-c271-4525-9d94-cf2e22addab7",
+    "code": 130007,
+    "name": "0910",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "ed375147-7b46-4ab7-aabb-097bc4c0a505",
+    "code": 129994,
+    "name": "0906",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "8a7f21d0-767b-4be7-b6b2-319dfcd2806d",
+    "code": 130000,
+    "name": "0912",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "ea2cb41e-679f-455a-bd8f-f21b2cc6e2eb",
+    "code": 130004,
+    "name": "0914",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "b10cb05f-9c7d-4663-b5c5-bc321b904643",
+    "code": 130005,
+    "name": "0905",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "12b1fabd-b873-4de1-8956-b41258f119bc",
+    "code": 130002,
+    "name": "0909",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "8b7ab0aa-0e7b-48e2-a273-c0a7370347cb",
+    "code": 130001,
+    "name": "0911",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "e58c5643-a220-4ee2-8e3e-2a915c923bd2",
+    "code": 130006,
+    "name": "0907",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "8e857509-7995-4382-91ae-3d8cf1e4ac53",
+    "code": 129997,
+    "name": "0915",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "e8f47977-2486-4593-bc2d-90c0bcbb3124",
+    "code": 130003,
+    "name": "0904",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "bdac7eef-3164-49b6-8eb4-4714f7b33c6f",
+    "code": 129998,
+    "name": "0903",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "5119d8e0-6db2-4ecc-b5d0-aa7de8d0675b",
+    "code": 129993,
+    "name": "0908",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "05dc463b-8956-4a46-9b25-4126c05e2d85",
+    "code": 129999,
+    "name": "0902",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "73096c8a-0c1b-47ea-a841-5fd3d7343994",
+    "code": 130016,
+    "name": "1010",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "385e2068-30a3-409c-8df6-e6d43061b5c8",
+    "code": 130017,
+    "name": "1003",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "7f1212e4-16f0-4132-b9ea-da3e11e33288",
+    "code": 130020,
+    "name": "1011",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "d71e80de-f46b-4ec3-bda6-12c576a2a44d",
+    "code": 130021,
+    "name": "1015",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "0599e0a9-8687-4208-bce2-5857828e57f0",
+    "code": 130010,
+    "name": "1009",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "245cf4fd-bf14-4200-b107-a134d219f579",
+    "code": 130012,
+    "name": "1008",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "0dc4c121-d7de-4e12-8d5c-19122ecac141",
+    "code": 130019,
+    "name": "1014",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "e53b2adb-97b8-49a7-957e-895b28f2fa96",
+    "code": 130015,
+    "name": "1007",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "2ecf107d-f192-4bf9-ab85-2468cadb02d8",
+    "code": 130018,
+    "name": "1004",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "080ade6a-1551-4909-aaed-680ed1afdc7b",
+    "code": 130013,
+    "name": "1005",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "c74aa012-6c1c-45d7-8184-d7632d4598a0",
+    "code": 130022,
+    "name": "1012",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "fb32563c-88e4-4b49-aee1-2b1935d634d3",
+    "code": 130011,
+    "name": "1002",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "7ac24628-1de5-43ba-9e05-74734f58d537",
+    "code": 130008,
+    "name": "1001",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "e314a486-59f7-4880-8232-fbe01f6ed09b",
+    "code": 130009,
+    "name": "1013",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "f2876b44-0448-402e-8c6c-43388526c31b",
+    "code": 130014,
+    "name": "1006",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "b386fa11-ca49-4159-8a39-bfe85196a261",
+    "code": 130034,
+    "name": "0709",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "391137c8-3955-4ba4-a280-05c34f4c1448",
+    "code": 130029,
+    "name": "0703",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "49a15ed7-e312-4e13-bf4a-ccbaaca219af",
+    "code": 130035,
+    "name": "0708",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "296e13c9-32e7-4630-950d-1fa2c1ed3c89",
+    "code": 130032,
+    "name": "0701",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "c75aadc5-ae61-4d0e-ba76-94c78826b9c7",
+    "code": 130027,
+    "name": "0704",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "0e21dcf6-4142-42e1-b38f-b4e0fa2cbdf5",
+    "code": 130026,
+    "name": "0713",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "57489a19-f036-4bb9-9b2b-5b334ffafc2c",
+    "code": 130033,
+    "name": "0705",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "d3ac0470-3ba6-4c5e-bfce-02572d65cbde",
+    "code": 130031,
+    "name": "0707",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "3783360c-7ba7-4839-8ce3-42a5d9954421",
+    "code": 130036,
+    "name": "0702",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "bdc7bf53-dbbd-4a4f-b6cc-38609d87e9b9",
+    "code": 130024,
+    "name": "0715",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "7c39ab96-8473-4334-adba-56cb5bddf985",
+    "code": 130025,
+    "name": "0706",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "3ef00061-1550-4118-b5a2-c1db3a1ec21d",
+    "code": 130030,
+    "name": "0714",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "99414661-222d-4eab-a4bf-b635cb57ea47",
+    "code": 130038,
+    "name": "0712",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "2b290540-9a86-4a2d-bc15-892419172db8",
+    "code": 130037,
+    "name": "0711",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "330d5a07-f756-4d0b-ae13-8fb4149ed39d",
+    "code": 130039,
+    "name": "พิเศษ",
+    "subClinicRef": "1abb0f2a-550a-410b-ad2f-c067dd4a897e"
+  },
+  {
+    "_id": "8572a8c1-5434-49f0-96a4-a1414db629b9",
+    "code": 129961,
+    "name": "เสริม",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "6057c173-f90b-4865-b5fa-586fdb48deb9",
+    "code": 129989,
+    "name": "ICU",
+    "subClinicRef": "abf31c3d-11e4-42ba-b5ae-95afe028e297"
+  },
+  {
+    "_id": "b6e204aa-6021-4f05-b42e-6f37e119b8b8",
+    "code": 130044,
+    "name": "501",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "d19d1b97-3764-47f7-b5db-ddd7965a1958",
+    "code": 130045,
+    "name": "502",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "18f2d3ef-2565-4af4-8c17-dab4fe221a7c",
+    "code": 130046,
+    "name": "503",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "39fa2b1c-0b4a-4c49-b860-56b947a2a878",
+    "code": 130047,
+    "name": "504",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "ba4e5d75-e3aa-4de4-97d5-19edc63e2914",
+    "code": 130048,
+    "name": "505",
+    "subClinicRef": "98005356-ff98-4260-baf9-3f9e7ca5007f"
+  },
+  {
+    "_id": "9e6d9eba-8530-4922-aa5f-0e31b944f7ca",
+    "code": 130063,
+    "name": "1110",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "144d4fa2-7862-427a-81ed-7ee3f31bc761",
+    "code": 130060,
+    "name": "1104",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "e8b493d8-0020-49c0-b98f-314737b58baa",
+    "code": 130049,
+    "name": "1101",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "fb083462-787e-4b43-a3c2-7a9d0a9676e4",
+    "code": 130050,
+    "name": "1106",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "6c8e2ed4-1b51-43d1-857b-02cfec26bbc3",
+    "code": 130054,
+    "name": "1108",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "4bd464c1-651a-4283-940b-4a53f2476876",
+    "code": 130052,
+    "name": "1115",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "5806f563-a0d1-4d5a-9190-44fa198256ec",
+    "code": 130057,
+    "name": "1102",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "8274787d-b5fe-4f75-9cc6-e4967b4808d1",
+    "code": 130056,
+    "name": "1105",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "c28114d9-ffc3-4749-a98f-e68506d1c6f9",
+    "code": 130055,
+    "name": "1109",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "15e128ee-cf9a-45aa-8d0f-b6101c367eaf",
+    "code": 130058,
+    "name": "1113",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "fcad8df4-7eca-4f76-b873-282f549122af",
+    "code": 130053,
+    "name": "1114",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "e9a9c193-655b-43ea-98de-928cf5e9290b",
+    "code": 130062,
+    "name": "1107",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "41219bbf-ff89-4084-9685-956dc8843969",
+    "code": 130059,
+    "name": "1111",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "6fabc856-5bab-4f73-8c67-2b39059f723b",
+    "code": 130061,
+    "name": "1103",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "a38199c2-904c-47c0-92d1-8f48c346badf",
+    "code": 130051,
+    "name": "1112",
+    "subClinicRef": "6a7e690e-b39e-4e30-b0f7-74824b8379f0"
+  },
+  {
+    "_id": "5be28c45-0b28-40bb-8b63-d778358e9abe",
+    "code": 130065,
+    "name": "701",
+    "subClinicRef": "46020bb3-a81b-42ab-9c25-e2ce6e590a56"
+  },
+  {
+    "_id": "82701dd6-3493-477a-8898-f981da34d7d2",
+    "code": 129990,
+    "name": "สม4",
+    "subClinicRef": "28a09f9e-d446-4f06-9c29-1efca9279f78"
+  },
+  {
+    "_id": "98980570-b502-4812-a6fd-d51ec745796b",
+    "code": 130064,
+    "name": "702",
+    "subClinicRef": "46020bb3-a81b-42ab-9c25-e2ce6e590a56"
+  },
+  {
+    "_id": "49fbd4fe-a576-4bee-9d36-ac410dcfb5c3",
+    "code": 130092,
+    "name": "1",
+    "subClinicRef": "3b927ef2-fa64-43f8-9bdf-0948ae6cec58"
+  },
+  {
+    "_id": "5b11866e-d986-4167-9951-a6876416b60d",
+    "code": 130094,
+    "name": "207",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "b0fb3d63-3953-4cd6-ae79-695640440f00",
+    "code": 129952,
+    "name": "801",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "137c400d-18e3-432e-bbcd-59ba7719b261",
+    "code": 130104,
+    "name": "เสริม1",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "2102b64d-2a15-4a70-8456-912b2ec5edcb",
+    "code": 130103,
+    "name": "1210",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "7875be9e-e5a6-4da5-b182-17594203f283",
+    "code": 130110,
+    "name": "1211",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "18e25193-d03e-4220-9f3e-2eb9b9abb6c5",
+    "code": 130102,
+    "name": "1214",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "6f0b6511-4778-47d2-9cee-fa0388539e4b",
+    "code": 130105,
+    "name": "1206",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "11f1ea25-509b-4816-b312-ef52e4158c4f",
+    "code": 130111,
+    "name": "1202",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "09365589-c268-4350-91d6-78f4c3d9c430",
+    "code": 130106,
+    "name": "1208",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "15f7068b-cbd6-4679-bded-3aea6dea80e4",
+    "code": 130108,
+    "name": "1204",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "8d24d201-6b7a-49c8-a1c7-accc71e2eed3",
+    "code": 130113,
+    "name": "1209",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "830df5dc-e961-447f-8341-775b70576c0f",
+    "code": 130114,
+    "name": "1203",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "782c1c98-0763-4ef9-bf02-dafb571138d5",
+    "code": 130109,
+    "name": "1213",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "2797bb04-a469-42d1-baf4-0ec359bfb954",
+    "code": 130116,
+    "name": "1212",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "1fcfcbd7-9473-4c6e-9383-2793c82cce02",
+    "code": 130115,
+    "name": "1205",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "2bcfde98-ea22-4e7f-b15d-f8c0df435957",
+    "code": 130112,
+    "name": "1215",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "c2915126-0b94-476e-ba61-a2b56bc8c319",
+    "code": 130107,
+    "name": "1207",
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "31418bcb-def8-42b3-bf2d-4671163bc66a",
+    "code": 130130,
+    "name": "1310",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "389837d5-e5a1-4060-ad6f-14b3dbcd47a3",
+    "code": 130121,
+    "name": "1301",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "8a0584d9-49de-47a7-b193-cb40bb4dc0b8",
+    "code": 130128,
+    "name": "1304",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "b6451e0b-9e77-4e30-8960-4321bf2171d2",
+    "code": 130123,
+    "name": "1308",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "01f104b4-e773-49ec-aa3d-16d522284378",
+    "code": 130118,
+    "name": "1319",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "0feab0c6-d3e6-47f7-8361-8ec0bca0064e",
+    "code": 130131,
+    "name": "1314",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "8edb174e-f829-45db-8ccb-326b5fce84e0",
+    "code": 130120,
+    "name": "1311",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "a9579a4d-a168-4088-b082-a9acfde30c3a",
+    "code": 130124,
+    "name": "1312",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "8980e503-c7f1-4eee-b718-56ec2800c8ec",
+    "code": 130125,
+    "name": "1302",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "268f1e94-5ad6-4988-85fc-fd08f1c81eb3",
+    "code": 130119,
+    "name": "1305",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "363277af-a24a-4de6-84f1-dfe3ebca8a35",
+    "code": 130126,
+    "name": "1306",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "af07d511-89e9-4e2c-9a6e-e1a91a910000",
+    "code": 130129,
+    "name": "1309",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "6ed54ec2-c64f-4c3f-8f58-911f3ef2a192",
+    "code": 130127,
+    "name": "1307",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "255f9980-4742-4296-9d36-ea97db823dbc",
+    "code": 130117,
+    "name": "1315",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "ea5fc500-a1c8-44ca-a601-e03aa391a162",
+    "code": 130122,
+    "name": "1303",
+    "subClinicRef": "eb4cbe01-7c39-4918-a61b-8e9bbaf2ed62"
+  },
+  {
+    "_id": "5aecb998-d08c-4a84-95ae-359363859de5",
+    "code": 130146,
+    "name": "1406",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "45355ba9-f3be-47ff-bd81-312921e6f684",
+    "code": 130138,
+    "name": "1403",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "d57ca1d0-bff4-4f77-b8cc-1434aba48429",
+    "code": 130145,
+    "name": "1415",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "bf8d2e7e-6e8f-4bb4-aa4c-f2efc00f95c4",
+    "code": 130136,
+    "name": "1412",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "85078984-0931-4267-ae29-dcc7b4ce9e04",
+    "code": 130139,
+    "name": "1414",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "a20d18f3-8c7f-4aa9-be29-ff2b5bc42fe1",
+    "code": 130142,
+    "name": "1402",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "6e036946-0129-4ead-845f-1b5b5a222666",
+    "code": 130141,
+    "name": "1404",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "40e726c4-2127-49db-a6c7-fb1d6224b974",
+    "code": 130143,
+    "name": "1401",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "55d5f3b7-02ae-41bf-b3ba-6126e5bd7f1a",
+    "code": 130135,
+    "name": "1408",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "1270f22c-2382-4fc9-bab7-87838ce013b0",
+    "code": 130134,
+    "name": "1405",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "dc10ba92-513a-4fc4-8e08-e8ea61ffb754",
+    "code": 130140,
+    "name": "1411",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "8f623fe9-b453-4227-88dd-0c85ac5fdf47",
+    "code": 130137,
+    "name": "1407",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "2f6bdbcd-0ab3-4061-b301-3611a5e29744",
+    "code": 130144,
+    "name": "1413",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "b4f06ac2-7ab9-4181-9491-126c11fe95ad",
+    "code": 130133,
+    "name": "1409",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "50bcc3c7-c758-40fa-8f2b-feb510ba60ec",
+    "code": 130132,
+    "name": "1410",
+    "subClinicRef": "414e31e9-0ea7-4edc-badb-877aec0e3e49"
+  },
+  {
+    "_id": "5b9fd2ab-fe58-4905-a159-a4326c32fa85",
+    "code": 130150,
+    "name": "1501",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "83d36468-42eb-48f3-954d-92b8b4d2f044",
+    "code": 130148,
+    "name": "1513",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "9f0a6097-db9c-492d-8094-22f7006e957b",
+    "code": 130152,
+    "name": "1515",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "c8bd7925-d954-4100-a6b1-61424336a6a5",
+    "code": 130157,
+    "name": "1503",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "83c98977-ebe2-4b59-ba5f-278aa2a30456",
+    "code": 130154,
+    "name": "1512",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "f4d7b6bc-38a9-4e2a-820e-cf4c0f598c65",
+    "code": 130147,
+    "name": "1502",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "8f848e95-1bba-4f41-a9f8-57ad8ce82963",
+    "code": 130153,
+    "name": "1514",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "ec890e62-a8df-4e4e-920f-5f7fd4dc07cc",
+    "code": 130151,
+    "name": "1509",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "d448fd2d-09a9-4758-9f9a-8d0387377241",
+    "code": 130159,
+    "name": "1505",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "480578f2-d110-42fa-a4d5-ccc7f114e9d1",
+    "code": 130149,
+    "name": "1511",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "5c351b1f-3136-4f24-b44b-249069abc21e",
+    "code": 130155,
+    "name": "1508",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "dd45d3f6-b007-477a-923c-056325b6cce2",
+    "code": 130156,
+    "name": "1504",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "28b13457-e73e-4d28-baa4-b86b548a48cd",
+    "code": 130158,
+    "name": "1507",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "50bc5cac-8190-44d0-b160-97d4158ee43d",
+    "code": 130160,
+    "name": "1506",
+    "subClinicRef": "79c1073a-05c1-459d-9eb0-c9a7362c3419"
+  },
+  {
+    "_id": "93e9ffae-cca5-4f37-8652-232cd5b1b35f",
+    "code": 130161,
+    "name": "อจ",
+    "subClinicRef": "d2a05b80-ddc9-4b0d-b24c-bb0df252bb97"
+  },
+  {
+    "_id": "1ab579c1-4770-4031-a3d3-39daa10b0322",
+    "code": 130162,
+    "name": "1703",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "4b1bbc48-960b-429b-8bdd-0d1ef15dcd92",
+    "code": 130174,
+    "name": "1702",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "fcf2b341-a566-4b04-9c9b-aca30b4ea1ad",
+    "code": 130165,
+    "name": "1704",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "631f0b96-cad8-4c3f-a713-b44582bfe4ea",
+    "code": 130170,
+    "name": "1705",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "d00bc3df-f03c-4729-b93d-f86e314fe25a",
+    "code": 130163,
+    "name": "1706",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "469b50dd-ced2-4825-afbd-981cdc9c25ff",
+    "code": 130168,
+    "name": "1707",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "a63ea2e5-d404-4eca-812e-581c23ecfd6f",
+    "code": 130175,
+    "name": "1708",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "d21611fa-6b53-47e5-92b6-9048d45bc773",
+    "code": 130169,
+    "name": "1709",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "39b34277-7711-438b-b25d-01bc23d219b2",
+    "code": 130167,
+    "name": "1710",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "82086ba9-96bf-4d25-8dc6-cff52025e373",
+    "code": 130176,
+    "name": "1712",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "6442e96a-7cf8-4acd-939d-52a7db457446",
+    "code": 130173,
+    "name": "1715",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "6e5571d5-7a53-4836-9e2f-d33cf5c76223",
+    "code": 130186,
+    "name": "1601",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "9f0ae1c6-9b40-4a64-b5c4-9303505dee17",
+    "code": 130190,
+    "name": "1602",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "6b76ddd7-b890-4222-93a9-94b218261f4b",
+    "code": 130182,
+    "name": "1603",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "9b1e0ecb-72e3-47f1-9f32-b7c6d7069fef",
+    "code": 130177,
+    "name": "1604",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "aa8aa443-92bf-4a40-b4e9-9fdb4d73bd4f",
+    "code": 130181,
+    "name": "1605",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "64c876d8-8806-4d79-a4d5-73e31f59cbba",
+    "code": 130187,
+    "name": "1606",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "bd15c42f-2f54-44ed-8c28-ef61513257ff",
+    "code": 130185,
+    "name": "1607",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "50bb0c50-f4f2-45d6-81c6-14d8f36029a7",
+    "code": 130188,
+    "name": "1608",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "681ed5f3-d417-4f7d-a412-6e8302d19c2b",
+    "code": 130180,
+    "name": "1609",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "3992d760-0334-4069-83a5-fab3b2b35656",
+    "code": 130189,
+    "name": "1610",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "55bdc088-f141-4aa9-90bc-cde30fc120ee",
+    "code": 130184,
+    "name": "1611",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "0d650772-5b9a-44d2-91d1-8559484a61a9",
+    "code": 130183,
+    "name": "1612",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "7d522138-22a2-46d9-ac86-fa1ebf825159",
+    "code": 130179,
+    "name": "1613",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "ba7a8694-b0b5-4349-903f-098de4b46458",
+    "code": 130178,
+    "name": "1614",
+    "subClinicRef": "013c67e5-d934-4b46-998a-12042006dda8"
+  },
+  {
+    "_id": "25126e61-3504-420c-a422-66e600dd1f11",
+    "code": 130191,
+    "name": "CCU",
+    "subClinicRef": "75aecf26-a5e3-42d5-bb93-354d233d9830"
+  },
+  {
+    "_id": "035bcc8a-1c98-486e-974c-5e1e93d2d755",
+    "code": 130041,
+    "name": "Nสม1",
+    "subClinicRef": "46e06c41-3856-4dc5-a65b-b8cc015bc341"
+  },
+  {
+    "_id": "25bedb8d-5b43-463e-844d-f7f3f4f8c0c1",
+    "code": 130195,
+    "name": "05",
+    "subClinicRef": "33d01c17-46ca-4f36-bd91-e0f81c519c96"
+  },
+  {
+    "_id": "d7ed5971-2ac3-4fb2-85b9-53a59b742a5d",
+    "code": 130199,
+    "name": "06",
+    "subClinicRef": "33d01c17-46ca-4f36-bd91-e0f81c519c96"
+  },
+  {
+    "_id": "06c9251f-dbaf-46ee-9f24-9a18b2a0829e",
+    "code": 130194,
+    "name": "07",
+    "subClinicRef": "33d01c17-46ca-4f36-bd91-e0f81c519c96"
+  },
+  {
+    "_id": "2ef308a0-7d28-4ea3-a199-e0bd42f51821",
+    "code": 130196,
+    "name": "08",
+    "subClinicRef": "33d01c17-46ca-4f36-bd91-e0f81c519c96"
+  },
+  {
+    "_id": "16f61d8f-4d4e-4cd9-96f3-aea260ab3e7e",
+    "code": 130198,
+    "name": "09",
+    "subClinicRef": "33d01c17-46ca-4f36-bd91-e0f81c519c96"
+  },
+  {
+    "_id": "46b7fbb6-22e3-4fc4-84c5-9d60b088b65d",
+    "code": 130197,
+    "name": "10",
+    "subClinicRef": "33d01c17-46ca-4f36-bd91-e0f81c519c96"
+  },
+  {
+    "_id": "2caf1250-b38a-4f85-a65b-35233ba09d78",
+    "code": 130515,
+    "name": "11",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "67a6ee59-8c27-4e99-9dd4-d10b9fce73da",
+    "code": 130521,
+    "name": "12",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "b461f44c-bd49-4e44-9c9b-c0773fc2da87",
+    "code": 130522,
+    "name": "13",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "b7b9872e-bc32-45a8-88c5-a353171eead7",
+    "code": 130516,
+    "name": "14",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "0e7dbd2b-4db8-44a6-bb78-7735ce01227f",
+    "code": 130514,
+    "name": "15",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "f192bed2-cc70-438c-8641-be8720c5c9c8",
+    "code": 130517,
+    "name": "16",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "3d916ae6-b37d-4834-975a-1cceec47b592",
+    "code": 130513,
+    "name": "17",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "04eeece0-e3b6-4759-b502-71fd22c8d515",
+    "code": 130518,
+    "name": "18",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "acf3363f-2abf-4fcf-bff0-5ee85ba8bc78",
+    "code": 130520,
+    "name": "19",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "344364e4-d767-4996-b07e-92db556ef166",
+    "code": 130519,
+    "name": "20",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "8c840b96-d77b-4785-9d39-8ea00c39d52c",
+    "code": 130547,
+    "name": "21",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "d6c1c23f-7d77-4c82-8a8b-a68232615de7",
+    "code": 130550,
+    "name": "22",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "8959aecc-7d14-4702-85e6-2c23449909b9",
+    "code": 130545,
+    "name": "23",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "687417c1-00b9-4310-904e-030e352ef5ec",
+    "code": 130546,
+    "name": "24",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "2109b39e-41eb-4f41-b90b-ce4e110cc0d5",
+    "code": 130544,
+    "name": "25",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "bd053a9a-d4ff-4fc3-aeb2-5895c919f0fe",
+    "code": 130543,
+    "name": "26",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "5463a0ee-1902-4b1d-9338-c3e6aa9f14ad",
+    "code": 130549,
+    "name": "27",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "7693be55-f004-4b62-99c5-35833a42987c",
+    "code": 130548,
+    "name": "28",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "a759197e-29f5-4bc6-bedd-30c582432295",
+    "code": 130542,
+    "name": "ห้องเสริม",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "82e19322-c549-4d8e-90ae-93c78b04e8c3",
+    "code": 130529,
+    "name": "ห้อง 4",
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "dc684daa-b7b9-43fc-8259-e1b604c4e17f",
+    "code": 129947,
+    "name": "พศ3",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "ddcb6bfd-fc89-475a-ab89-4a9e45eeff28",
+    "code": 129948,
+    "name": "รวม2",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "1dc66ada-a6e7-43e3-bae2-9004a601dfff",
+    "code": 129949,
+    "name": "รวม3",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "1c4edb8d-70ac-42a5-b3d2-ba2c739af005",
+    "code": 129953,
+    "name": "810",
+    "subClinicRef": "b062a70c-6d52-4341-83ee-c7f906b7481f"
+  },
+  {
+    "_id": "6560e8f3-9ed5-4d22-83b6-e796ba89cc82",
+    "code": 129995,
+    "name": "0913",
+    "subClinicRef": "10415b0d-fb18-40ed-98fe-821c4ac65e82"
+  },
+  {
+    "_id": "e085148f-8b79-42b0-b28b-46414b927d19",
+    "code": 130023,
+    "name": "1016",
+    "subClinicRef": "5619177c-f881-4917-a7c0-2a0934210120"
+  },
+  {
+    "_id": "16e5d06f-7905-4cb0-8e1e-b6e7f8945793",
+    "code": 130028,
+    "name": "0710",
+    "subClinicRef": "591708a7-4990-4c3e-991f-231e5c4cd046"
+  },
+  {
+    "_id": "b1bee352-1062-4cc8-960f-543a2a0fafa4",
+    "code": 130066,
+    "name": "407",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "34db5b93-6031-440c-913f-e5f046f5a39f",
+    "code": 130067,
+    "name": "404",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "4f7a3bf1-2a67-43f2-979b-4fc837a93e7f",
+    "code": 130068,
+    "name": "411",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "01c38038-9b84-4ce2-b330-74fa36b78b2e",
+    "code": 130069,
+    "name": "409",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "c552c08e-e57a-4ed8-80f0-a9e85438ac62",
+    "code": 130070,
+    "name": "403",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "541ef77a-392d-46d3-90d4-6a6437d33889",
+    "code": 130071,
+    "name": "408",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "0afd4e4e-3d1e-4035-9cad-8063ea5bb613",
+    "code": 130072,
+    "name": "410",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "dd26913c-58bd-4910-9624-ae4571296cf5",
+    "code": 130073,
+    "name": "402",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "2d5ded6a-12c4-4a4f-9110-0931d4483d78",
+    "code": 130074,
+    "name": "401",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "db06d916-ee30-4b92-8c5b-95a82b657464",
+    "code": 130075,
+    "name": "405",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "2fa35c88-c8fb-4910-968d-5a19f27ad3f4",
+    "code": 130076,
+    "name": "406",
+    "subClinicRef": "375adc63-6f40-47a0-b9f0-c31884710c17"
+  },
+  {
+    "_id": "6f003fad-23bf-4055-b5f0-46570ce003a8",
+    "code": 130077,
+    "name": "419",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "021e94fa-19f4-40ad-b964-659b286b0667",
+    "code": 130078,
+    "name": "422",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "52e6da06-781c-4990-b620-1cddb59d06d8",
+    "code": 130079,
+    "name": "412",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "48c54ada-8b73-4e42-99dd-e3a7b6c61e15",
+    "code": 130080,
+    "name": "421",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "e0e078a6-405a-4c8d-8b31-fa0036afba8d5",
+    "code": 130081,
+    "name": "416",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "2891adc7-b064-4e2c-98f3-8897874f2558",
+    "code": 130082,
+    "name": "418",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "d974d450-0d97-4342-810d-f9ab57efe18f",
+    "code": 130083,
+    "name": "417",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "08ca4f04-dc31-4049-af45-3aeb61454b13",
+    "code": 130084,
+    "name": "424",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "83d9652e-403f-47f1-9c88-ff24de27003e",
+    "code": 130085,
+    "name": "415",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "76275008-b2d8-4d8b-8a77-517b5e145363",
+    "code": 130086,
+    "name": "414",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "792e35a4-be23-4f11-8b8d-8abd40165a84",
+    "code": 130087,
+    "name": "420",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "57bc0426-cbf4-467c-8c99-883f2d6b4993",
+    "code": 130088,
+    "name": "413",
+    "subClinicRef": "248ad2fa-eb62-424f-bf08-83a9878f92f0"
+  },
+  {
+    "_id": "ef7e2ec8-6fc0-41ae-9356-cbf1479def5b",
+    "code": 130089,
+    "name": "พศ2",
+    "subClinicRef": "ad8329ed-af65-4aeb-b18d-294e21bfeb72"
+  },
+  {
+    "_id": "7993883b-acb2-41ea-810b-000eaa13b8e1",
+    "code": 130090,
+    "name": "แยก4",
+    "subClinicRef": "ad8329ed-af65-4aeb-b18d-294e21bfeb72"
+  },
+  {
+    "_id": "f2401ca3-6c41-4981-885d-440c3b443e77",
+    "code": 130091,
+    "name": "แยก3",
+    "subClinicRef": "ad8329ed-af65-4aeb-b18d-294e21bfeb72"
+  },
+  {
+    "_id": "01988e27-c42c-4a11-a7f8-8afb6636ca67",
+    "code": 130093,
+    "name": "208",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "8156010e-e519-4e46-b16c-2a5ec7514ca5",
+    "code": 130095,
+    "name": "206",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "1a839a2d-8152-4a4d-9892-3c82dbbede91",
+    "code": 130096,
+    "name": "201",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "144e123f-5376-4e24-8a45-481f8d3dba7d",
+    "code": 130097,
+    "name": "205",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "b8475c04-3227-4da6-9b1f-f1d8baba426f",
+    "code": 130098,
+    "name": "203",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "17be1e27-ba56-40e1-b1d8-74f70beb7dec",
+    "code": 130099,
+    "name": "202",
+    "subClinicRef": "3e18f2b9-1b00-4102-a245-6b82f1ac3b92"
+  },
+  {
+    "_id": "8be7d620-63c6-49c8-8a06-000b891a8f0c",
+    "code": 130100,
+    "name": "2",
+    "subClinicRef": "37689ebd-e472-45e8-b51f-be1a1ea77cb6"
+  },
+  {
+    "_id": "89a3a35a-60be-496d-9cfc-2454bf66f32b",
+    "code": 130101,
+    "name": "พ1",
+    "subClinicRef": "37689ebd-e472-45e8-b51f-be1a1ea77cb6"
+  },
+  {
+    "_id": "5870b77f-be85-4b22-870e-e08573661e65",
+    "code": 130164,
+    "name": "1714",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "3266edc5-a9bd-4943-9da0-a8c7623b3606",
+    "code": 130166,
+    "name": "1713",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "6f7f3a15-0925-4139-96e0-e7298dc40a1c",
+    "code": 130171,
+    "name": "1711",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "e086d8bb-d22b-4f46-beed-7a99018fd384",
+    "code": 130172,
+    "name": "1701",
+    "subClinicRef": "9911f37e-edc2-498e-a7cf-2957903522f8"
+  },
+  {
+    "_id": "d483bce8-f566-40b6-a2e8-2ceb7747b58d",
+    "code": 130192,
+    "name": "PUI",
+    "subClinicRef": "8fc83f57-2507-4a64-af79-872db3cb898f"
+  },
+  {
+    "_id": "4b1f9685-9362-4b4c-8bae-21b72df9c749",
+    "code": 130193,
+    "name": "CoV",
+    "subClinicRef": "8fc83f57-2507-4a64-af79-872db3cb898f"
+  },
+  {
+    "_id": "81c2a7e4-3ffd-4147-a7d9-5693a26be15d",
+    "code": 130200,
+    "name": "F",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "04f65abe-7fab-4140-ae28-80f5ee2c897d",
+    "code": 130201,
+    "name": "D",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "ea40fe3b-0d7f-4339-b390-31deec2f8219",
+    "code": 130202,
+    "name": "B",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "2fb74fa4-5c25-4135-bc8f-05bc50f62cda",
+    "code": 130203,
+    "name": "G",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "33ea4e01-e79a-43bd-9784-9f25efb60176",
+    "code": 130204,
+    "name": "I",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "552578bc-caf5-469a-83c4-b2fd1a7c907f",
+    "code": 130205,
+    "name": "A",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "69ab2682-63a7-428e-bf1b-73ab4206c273",
+    "code": 130206,
+    "name": "J",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "2b2406f7-234b-40c1-ab2a-2bbd5f3938c9",
+    "code": 130207,
+    "name": "E",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "9d583f16-934e-429d-8282-850a1180142e",
+    "code": 130208,
+    "name": "C",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "16a4e918-c75e-4c81-937b-6ba4b29663ee",
+    "code": 130209,
+    "name": "H",
+    "subClinicRef": "606707c4-7004-4d64-a1b8-4acaa704ea2c"
+  },
+  {
+    "_id": "73d0581c-10a1-4136-aaa9-511ef4c325a7",
+    "code": 130210,
+    "name": "209",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "1fd9b619-d2f7-417b-8253-511ca670aed4",
+    "code": 130211,
+    "name": "109",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "12c613bc-2d46-4d3c-ae77-fa4e56d778f8",
+    "code": 130212,
+    "name": "107",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bf87e859-69ee-42a1-8674-f50bcbd44d48",
+    "code": 130213,
+    "name": "106",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "03d8a6ec-925d-470c-a92a-212477770da0",
+    "code": 130214,
+    "name": "105",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "fd0b18ff-59ca-4f8d-ad31-141000f1b676",
+    "code": 130215,
+    "name": "206B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "822917d0-4cff-496f-b0c8-494da187f1c2",
+    "code": 130216,
+    "name": "204",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f553efbf-50d6-4212-b5da-43de04c5ad42",
+    "code": 130217,
+    "name": "309",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0336759e-4ba2-44f1-aaaa-abc24f27863c",
+    "code": 130218,
+    "name": "307",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ca2c71fd-9fe2-46c3-b59e-cc572e7252fc",
+    "code": 130219,
+    "name": "305",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7d35d306-adee-4016-8c39-e9085ff1130d",
+    "code": 130220,
+    "name": "304",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9e116d2e-7ac3-4e43-be62-fe3e53e5bd81",
+    "code": 130221,
+    "name": "303",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7be08032-9785-4079-8470-5482cde8135b",
+    "code": 130222,
+    "name": "216",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d53a0fa8-7c37-445d-beeb-7c4743d4b343",
+    "code": 130223,
+    "name": "210",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "518f54d2-48a6-4be4-9772-3362d15fde47",
+    "code": 130224,
+    "name": "212",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8a713426-e8b0-4dd6-bf8a-5d5b84e85e3b",
+    "code": 130225,
+    "name": "213",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4057c9d2-54a2-4c03-8b38-d6b3e9d4ff5b",
+    "code": 130226,
+    "name": "215",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "30a3dfba-dd58-440b-876e-37fe225e3ec4",
+    "code": 130227,
+    "name": "217",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "834a4038-fc36-40cb-9e8a-76ef45e3ab6a",
+    "code": 130228,
+    "name": "301",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bb5f6cc1-4271-4719-b646-ab4f0445250e",
+    "code": 130229,
+    "name": "302",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "35e9f8a4-dcf7-4233-94d3-ac77c08d2c8a",
+    "code": 130230,
+    "name": "308",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9902587f-1f6a-4364-bb1b-fd49840f0095",
+    "code": 130231,
+    "name": "317",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "eb8dae5c-83a5-4699-bf6a-62a85f93bf88",
+    "code": 130232,
+    "name": "313",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3cc3c423-e624-4368-ac5b-5812943e19a1",
+    "code": 130233,
+    "name": "311",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0332a82b-6ba9-4ee1-8974-3ff2e8362334",
+    "code": 130234,
+    "name": "318",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0d37a7f5-764d-4cd0-b2ba-d83cd5f6e63d",
+    "code": 130235,
+    "name": "509B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c24da430-6703-4864-9ced-e1d9f21c9e2b",
+    "code": 130236,
+    "name": "412C",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "2ce4e971-6861-4344-9d01-0975af344acb",
+    "code": 130237,
+    "name": "413C",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "86ad91bd-1e89-41fe-8ac1-b38e325d9aad",
+    "code": 130238,
+    "name": "414B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b5b5218d-d3c2-4718-9b28-468168002b9d",
+    "code": 130239,
+    "name": "415B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c7d22cac-cfe3-435e-9ac5-7a7fe0afe492",
+    "code": 130240,
+    "name": "506B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "35a4420f-ab8c-4736-829f-827903e84bcb",
+    "code": 130241,
+    "name": "608A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "308fcc2a-a694-4261-b05f-88d901366343",
+    "code": 130242,
+    "name": "607A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e257222f-7604-4ef9-bf9e-4e66a6391314",
+    "code": 130243,
+    "name": "603C",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9abf5858-10d5-4848-86e0-79474651253f",
+    "code": 130244,
+    "name": "603A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "97e23f6a-55d5-4d17-af67-38775ac24ece",
+    "code": 130245,
+    "name": "602A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f79f700d-df5e-490f-8b6e-d44276b27586",
+    "code": 130246,
+    "name": "601",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "400a9d41-daa9-46cb-88cb-dd876fabbc6d",
+    "code": 130247,
+    "name": "515B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "322b2605-9fdf-4705-8317-05207ae20a83",
+    "code": 130248,
+    "name": "514B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e04ef5ff-6065-482e-a5b5-9ab6b8a6f591",
+    "code": 130249,
+    "name": "513B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d901851f-cbb7-49cf-afc5-843a1823a5a9",
+    "code": 130250,
+    "name": "512B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4fcff36f-b8d8-4e63-bf53-30cf604368fb",
+    "code": 130251,
+    "name": "511B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4120f3e8-ab95-42bb-837c-9150fac5654d",
+    "code": 130252,
+    "name": "510B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c9ad47af-4055-40ee-8cfc-922667966e37",
+    "code": 130253,
+    "name": "510A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0317a315-b740-4f4e-9039-8d6b97b5a6a4",
+    "code": 130254,
+    "name": "511A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9f4fba33-dd41-4d3a-bc22-b65e17372b1f",
+    "code": 130255,
+    "name": "512A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "971ff00c-f499-40dd-8009-7aa99613bfec",
+    "code": 130256,
+    "name": "513A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4d380c1b-5771-4df6-a187-66c2f4684ea9",
+    "code": 130257,
+    "name": "514A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e75e1b33-967b-4d33-8864-3c2290c7dafd",
+    "code": 130258,
+    "name": "506A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "74bac160-0121-4409-9871-4e8364052fa6",
+    "code": 130259,
+    "name": "504A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b86f716b-c918-477e-8d60-8a79b16d1d51",
+    "code": 130260,
+    "name": "206A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b3cd4d22-0880-4820-9b88-042376085ba0",
+    "code": 130261,
+    "name": "206C",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "09f64b8f-d85d-4bbf-bdc9-fdda1c39d813",
+    "code": 130262,
+    "name": "508A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d1b8540b-ac4f-4702-9ca7-c16f5abba58d",
+    "code": 130263,
+    "name": "503A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "677fb468-49a2-4b00-91b0-65018387d86f",
+    "code": 130264,
+    "name": "502A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e3fd2b94-96d0-4291-8df7-86ef80658a55",
+    "code": 130265,
+    "name": "418A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d9cb8a1b-b637-48b4-9ff4-88ebfbbd03f5",
+    "code": 130266,
+    "name": "417A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "95399248-8a8f-486b-810a-d68a605370cc",
+    "code": 130267,
+    "name": "416A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4ce43264-9274-489d-bea5-1aeea2ce0604",
+    "code": 130268,
+    "name": "415A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f05926c0-907f-4490-9f5d-806f70ffef7b",
+    "code": 130269,
+    "name": "414A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9e20e34b-e062-47b6-b7eb-8d257fe23149",
+    "code": 130270,
+    "name": "412A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "df5a5f81-5a74-4296-a54b-6fe1bf6df0ca",
+    "code": 130271,
+    "name": "413A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c6d81692-029c-459a-889f-a374c556aeb9",
+    "code": 130272,
+    "name": "502B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e6386646-d04a-4c7b-a477-2514f8789845",
+    "code": 130273,
+    "name": "504B",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a83b60de-8be1-441a-98d8-1e9e2de76993",
+    "code": 130274,
+    "name": "515A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "746c2914-21aa-449f-a430-57bd7394d346",
+    "code": 130275,
+    "name": "516A",
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4ab9fe3a-57a6-4009-94c3-bd674717945c",
+    "name": "1201",
+    "code": 130670,
+    "subClinicRef": "82aaaee0-50c3-469f-a602-a886400b6bce"
+  },
+  {
+    "_id": "3f4852a2-1315-49e4-a2b5-35c15f82055a",
+    "name": "Nสม99",
+    "code": 130753,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "c495bbc3-aa02-473b-b649-d651caf3e401",
+    "name": "สม10",
+    "code": 130754,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a00404dd-f1e8-4e90-bdf1-57aa8e9cce92",
+    "name": "สม100",
+    "code": 130755,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d8775c4e-c162-4b95-8413-95794ff03924",
+    "name": "สม11",
+    "code": 130756,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "fba590e8-aa88-42d1-aa11-26f1eaf8bd1b",
+    "name": "สม12",
+    "code": 130757,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d79c2fe5-f9d9-4bb2-8ae7-42a5598fda82",
+    "name": "สม13",
+    "code": 130758,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "25f46554-6b90-4628-ad40-5cdcc29f7607",
+    "name": "สม14",
+    "code": 130759,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "e33995e3-a99b-4a89-9f54-c984a038d37b",
+    "name": "สม15",
+    "code": 130760,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "f57b746a-c7e8-4382-a02c-11899fd19910",
+    "name": "สม16",
+    "code": 130761,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "c3405a3e-8cbc-47cf-abe9-b73b84112fb2",
+    "name": "สม17",
+    "code": 130762,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7acb936a-fdd6-491d-ac6a-eb7a10143c03",
+    "name": "สม18",
+    "code": 130763,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "012b5efe-f51c-4ee4-a78a-336308ee92ce",
+    "name": "สม19",
+    "code": 130764,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4526a75c-7bb2-4b50-9d37-f3eafc969e83",
+    "name": "สม20",
+    "code": 130765,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a1d7a199-194f-415a-9341-4ca203844ab3",
+    "name": "สม22",
+    "code": 130766,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "044efd33-2d09-4565-b024-685b38e540b3",
+    "name": "สม23",
+    "code": 130767,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a8529487-fec5-4fdf-9be6-34ff0ddde472",
+    "name": "สม24",
+    "code": 130768,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "76cf3f5f-48a4-4c4c-babb-4f20f6b7c6d0",
+    "name": "สม25",
+    "code": 130769,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "68e66044-2a0a-4c1b-a4fc-0d9e98e84ce1",
+    "name": "สม26",
+    "code": 130770,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0200ae65-80e9-4ef8-b4d5-fe17b418c646",
+    "name": "สม27",
+    "code": 130771,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "89078b40-cbda-4e6a-8b37-a19af04003b3",
+    "name": "สม28",
+    "code": 130772,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "02e327a1-d1fb-4f8b-ac38-63ae3e0b2c45",
+    "name": "สม29",
+    "code": 130773,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5e2a0f5d-c972-405f-9a0f-53e8bb7eda5b",
+    "name": "สม31",
+    "code": 130774,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7e7fab59-d161-4616-a756-0c8389a773ea",
+    "name": "สม34",
+    "code": 130775,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "8697c366-4f14-40ed-9b5b-21332fd05aa4",
+    "name": "สม35",
+    "code": 130776,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a3790369-1211-46ec-a2e1-1e69d9c06e60",
+    "name": "สม44",
+    "code": 130777,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0ea4b686-4078-4618-b5d0-d18158f372ba",
+    "name": "สม45",
+    "code": 130778,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "537aee14-0faf-4b2b-b8f1-6ae53d08dbed",
+    "name": "สม46",
+    "code": 130779,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "2c106fac-8ac4-432b-ac03-82c0cb18a6e7",
+    "name": "สม47",
+    "code": 130780,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "95ca8864-2159-452e-b9a9-3b0fc64ab710",
+    "name": "สม48",
+    "code": 130781,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "07406222-0a9c-41ce-8cd8-8207a6d53bc2",
+    "name": "สม49",
+    "code": 130782,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "60bd3279-0a87-4f2b-ae01-d81201460d35",
+    "name": "Nสม2",
+    "code": 130784,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "efb8e740-ac56-4201-a648-ad560e771dab",
+    "name": "Nสม3",
+    "code": 130785,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d90243bc-2099-46b2-861d-d6baae6d9940",
+    "name": "Nสม4",
+    "code": 130786,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "703886f7-3285-48b0-b3e1-76f53b6647ac",
+    "name": "Nสม5",
+    "code": 130787,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "96796367-63c5-443c-811f-34ee75bbc323",
+    "name": "Nสม6",
+    "code": 130788,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "16555f6a-ff29-4072-9420-b2690abf2657",
+    "name": "Nสม7",
+    "code": 130789,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0aa73f51-6ec3-4e17-9589-21e171148486",
+    "name": "Nสม8",
+    "code": 130790,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "cf44c2b3-514c-43cd-95cc-34211eeb947c",
+    "name": "Nสม9",
+    "code": 130791,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a74f7c0f-1530-427d-acec-f16f508413f3",
+    "name": "Nสม10",
+    "code": 130792,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "14e4cd42-65dc-44d9-a8d7-0643cef72148",
+    "name": "Nสม100",
+    "code": 130793,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "816b2e65-5fa5-4c52-85ca-48663272fc3c",
+    "name": "Nสม11",
+    "code": 130794,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a549dd54-b2a8-4777-b227-8cb0adfaf2d0",
+    "name": "Nสม12",
+    "code": 130795,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7eb421e2-87ca-4eda-93a8-63414a053d78",
+    "name": "Nสม13",
+    "code": 130796,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "025434fd-1a7b-48ac-9781-6009defb82e5",
+    "name": "Nสม14",
+    "code": 130797,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "93374d65-bfa1-46f3-95ef-8cea7c0d5b17",
+    "name": "Nสม15",
+    "code": 130798,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "172a90cf-df0b-4895-bd0f-286f758aa016",
+    "name": "Nสม16",
+    "code": 130799,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1ff9472a-2860-4daa-86bf-6482d24ed6de",
+    "name": "Nสม17",
+    "code": 130800,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a20d49fc-5586-46ae-9dd6-30ffd116cae9",
+    "name": "Nสม18",
+    "code": 130801,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "503169eb-68cb-4bf6-a735-193c6b2784ed",
+    "name": "Nสม19",
+    "code": 130802,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "fdfac9f8-1b25-44a6-99bf-0cef65d4ebfa",
+    "name": "Nสม20",
+    "code": 130803,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a43d5ca4-723e-49d2-8e7a-6c686fdcbefd",
+    "name": "Nสม21",
+    "code": 130804,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "11e8e714-d27b-4702-abcc-84d5f6f55257",
+    "name": "Nสม22",
+    "code": 130805,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d70968d6-e8cf-4ee0-a4b5-add521ac2570",
+    "name": "Nสม23",
+    "code": 130806,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "369da28e-8aa9-41f4-a534-19fbc2a46f21",
+    "name": "Nสม24",
+    "code": 130807,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0e5b31ac-d800-4048-95b8-7718d24e4801",
+    "name": "Nสม25",
+    "code": 130808,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "ec1b6b84-2d31-4cdb-949b-d26408c6fda1",
+    "name": "Nสม26",
+    "code": 130809,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "bdb9ad9d-809e-480f-a1b3-1c2d868c1ba5",
+    "name": "Nสม27",
+    "code": 130810,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "b9cf7eb0-bbba-48eb-af2d-b853d754aced",
+    "name": "Nสม28",
+    "code": 130811,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4ef5de22-1b34-474b-9c1a-a06a06c01117",
+    "name": "Nสม29",
+    "code": 130812,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "667e3026-2b76-42a7-8d9b-7377ba20af29",
+    "name": "Nสม30",
+    "code": 130813,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "cafbad88-ca51-47ac-a2a9-ce2bc54acf3b",
+    "name": "Nสม31",
+    "code": 130814,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "3bd5ef72-3c57-4f4c-9486-2a29e0f48dcf",
+    "name": "Nสม32",
+    "code": 130815,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5db88263-0718-4254-bf75-0ae7cb9d9f8a",
+    "name": "Nสม33",
+    "code": 130816,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "2913c4b6-cf14-44fc-a935-90214d5955d7",
+    "name": "Nสม34",
+    "code": 130817,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7f5eb74e-3811-435f-9d1e-85d686d1c4fe",
+    "name": "Nสม35",
+    "code": 130818,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "3ac60412-66a4-488d-bc07-9e4a0d652caf",
+    "name": "Nสม36",
+    "code": 130819,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "6774a4ce-2d93-457c-aa8b-4509d36573a4",
+    "name": "Nสม37",
+    "code": 130820,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0404caea-65fd-4f91-a7a0-6874c32b1854",
+    "name": "Nสม38",
+    "code": 130821,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5cec688e-f88d-449a-bfda-0233cd12c28e",
+    "name": "Nสม39",
+    "code": 130822,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4470ef22-6cbc-4956-b729-fa0ca6984f5c",
+    "name": "Nสม40",
+    "code": 130823,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a6f7b2d4-a4d1-4844-ae69-551f7d319464",
+    "name": "Nสม41",
+    "code": 130824,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "631425f7-927d-438b-b94f-6b98a23797cb",
+    "name": "Nสม42",
+    "code": 130825,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "8259bd84-3b14-4479-9c6b-82b1275a976b",
+    "name": "Nสม43",
+    "code": 130826,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "21133f48-f9c9-4cfa-be03-4aeac1422f30",
+    "name": "Nสม44",
+    "code": 130827,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "b69e7a75-5b12-4868-8b8c-947b808f4dd0",
+    "name": "Nสม45",
+    "code": 130828,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "fb9f028e-b15b-4e2c-879f-8b6062f4248b",
+    "name": "Nสม46",
+    "code": 130829,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "649c2de2-f934-43bb-9d42-d0c4bb676bdd",
+    "name": "Nสม47",
+    "code": 130830,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "613eb73f-3400-49a8-aed2-ede433abe0fc",
+    "name": "Nสม48",
+    "code": 130831,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "da83e383-5e3c-4cbe-82ad-501da376b334",
+    "name": "Nสม49",
+    "code": 130832,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5c043c25-2f0c-4f84-b69a-33abac25852a",
+    "name": "Nสม50",
+    "code": 130833,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0c99a832-5a34-4d16-a2b4-232a4b8af255",
+    "name": "Nสม51",
+    "code": 130834,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "3d586ae4-4756-4f40-bb49-11426c7e42fe",
+    "name": "Nสม52",
+    "code": 130835,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "efec0014-c9fa-42a5-97e3-a1a25835195b",
+    "name": "Nสม53",
+    "code": 130836,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d172292c-ad01-40aa-9363-8ae528e98936",
+    "name": "Nสม54",
+    "code": 130837,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "ff91306c-d0b6-498f-bc08-58676cc3c09c",
+    "name": "Nสม55",
+    "code": 130838,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "15c09f3b-883e-4ccd-a06a-8f017abb85a9",
+    "name": "Nสม56",
+    "code": 130839,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1a8fe688-b3f4-4234-a818-948a3898c758",
+    "name": "Nสม57",
+    "code": 130840,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "bd2d7fe1-7123-4fea-93a6-ee994dd884c9",
+    "name": "Nสม58",
+    "code": 130841,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "3aa295e1-919e-4cdc-92a4-0a5c3c95d9ec",
+    "name": "Nสม59",
+    "code": 130842,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5f0791a4-0605-481d-a438-63e6673d260e",
+    "name": "Nสม60",
+    "code": 130843,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a5649f93-0fee-4baf-b087-f65e8bfd9229",
+    "name": "Nสม61",
+    "code": 130844,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "6b315d6f-e5ad-48d5-a638-ed13a84e0e85",
+    "name": "Nสม62",
+    "code": 130845,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "f913b4e6-db79-4f19-b0c2-e7e96c80c1e6",
+    "name": "Nสม63",
+    "code": 130846,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "98f754d5-5cb7-4487-bb3e-a7c529a326cb",
+    "name": "Nสม65",
+    "code": 130847,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d6681b0f-6ffb-4e11-87bc-255a91a1d93b",
+    "name": "Nสม66",
+    "code": 130848,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "af78cf14-de21-4d93-a467-a94f3a6d97f1",
+    "name": "Nสม67",
+    "code": 130849,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4cc3a963-efa1-41a7-a248-fffe57d8bb9f",
+    "name": "Nสม68",
+    "code": 130850,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "42dd1449-f7cc-46cb-af71-a6b0b572a965",
+    "name": "Nสม69",
+    "code": 130851,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5a45b143-311f-4b05-903b-2feb4dfa817a",
+    "name": "Nสม70",
+    "code": 130852,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "3d2be87d-f709-4253-8dda-48c21cb4c484",
+    "name": "Nสม71",
+    "code": 130853,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "f22980e8-3929-4182-99f4-942b9701e3fa",
+    "name": "Nสม72",
+    "code": 130854,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "b5ad13ab-9cc8-4cb1-8cea-d13e78777d39",
+    "name": "Nสม73",
+    "code": 130855,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "2f03237c-a839-4958-9c3d-fd54605b4ebb",
+    "name": "Nสม74",
+    "code": 130856,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "935a77be-9a85-4ed8-993b-a809c7965923",
+    "name": "Nสม75",
+    "code": 130857,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0b237749-283e-4f2d-9cb9-6d5b397cd550",
+    "name": "Nสม76",
+    "code": 130858,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "b8045b06-4d5a-4eb3-9236-8b79b61d1285",
+    "name": "Nสม77",
+    "code": 130859,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "6f6523bc-8b00-4ed8-a9a9-099bad80af4a",
+    "name": "Nสม78",
+    "code": 130860,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "f6f36db4-e6f3-4659-91ec-67695afca024",
+    "name": "Nสม79",
+    "code": 130861,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4fe6d167-55bc-49c5-af00-2e07d97922ef",
+    "name": "Nสม80",
+    "code": 130862,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "70134ed6-a484-41cd-be90-231aebe7e09e",
+    "name": "Nสม81",
+    "code": 130863,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "fed10aa0-820b-40b9-a0e7-f50d9fc93924",
+    "name": "Nสม82",
+    "code": 130864,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "22bc2f01-4854-4ec0-beef-e48ee3fbe7de",
+    "name": "Nสม83",
+    "code": 130865,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "490a718a-c558-40de-b2f6-cb9cde7f36ce",
+    "name": "Nสม84",
+    "code": 130866,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "2db01a0a-943c-4020-b55b-c3296220f767",
+    "name": "Nสม85",
+    "code": 130867,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0c37dc77-8775-46aa-ac7b-fe13e8b1ddf3",
+    "name": "Nสม86",
+    "code": 130868,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0cdf7d12-7b24-4e09-876e-2bb8e6f77c30",
+    "name": "Nสม87",
+    "code": 130869,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "eaff84df-dd2f-4adb-a89b-4fcd78eea074",
+    "name": "Nสม88",
+    "code": 130870,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5893545b-1cfa-44ac-95f0-137f8723d114",
+    "name": "Nสม89",
+    "code": 130871,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "278da49d-bea3-4c45-b079-9d4e0a9ac6dd",
+    "name": "Nสม90",
+    "code": 130872,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "37cf33fb-2712-44fa-ba88-f1d93bb602df",
+    "name": "Nสม91",
+    "code": 130873,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "93d27890-09b4-4e11-b3c8-36e7e2a48e11",
+    "name": "Nสม92",
+    "code": 130874,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "087b73a4-a2ae-44dc-963b-8bb76090cc1e",
+    "name": "Nสม93",
+    "code": 130875,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5f78e10f-58c7-4e4c-8c83-5e2d562d1e9c",
+    "name": "Nสม94",
+    "code": 130876,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4780f6b8-a32b-4842-87ac-40297c06d9eb",
+    "name": "Nสม95",
+    "code": 130877,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7a37cdd2-b5e2-49f8-bcf6-b2f479e59b10",
+    "name": "Nสม96",
+    "code": 130878,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "bea1530a-72d6-40a7-9533-bc9c644ddd64",
+    "name": "Nสม97",
+    "code": 130879,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1ebf66e4-0f23-4623-a840-f30eab664bac",
+    "name": "Nสม98",
+    "code": 130880,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "9ce3467b-7f16-4d91-a29a-c74c5f031e56",
+    "name": "29",
+    "code": 130905,
+    "subClinicRef": "dbf2820a-897d-4b13-8fb4-893dd9e00877"
+  },
+  {
+    "_id": "850eaec9-a025-402b-bf99-def68e0a9a70",
+    "name": "30",
+    "code": 130906,
+    "subClinicRef": "dbf2820a-897d-4b13-8fb4-893dd9e00877"
+  },
+  {
+    "_id": "3ffefab7-f37d-4342-b453-f5e07d76f25d",
+    "name": "31",
+    "code": 130909,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "862cb7a8-2475-45ea-b564-509bd116afee",
+    "name": "32",
+    "code": 130910,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "c6925142-ad8c-41b4-8fd1-80f3a55f85fd",
+    "name": "33",
+    "code": 130911,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "64d38bb4-926f-432c-85ec-8c3d19a987b1",
+    "name": "34",
+    "code": 130912,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "0bcca37d-8ef1-48ca-ae17-4fdf90615e19",
+    "name": "35",
+    "code": 130913,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "98ee8690-8ed0-4534-bf11-803a4e737a98",
+    "name": "36",
+    "code": 130914,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "ea1bbe9e-1045-4335-ba77-9f23a5d37819",
+    "name": "37",
+    "code": 130915,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "da41b9d5-443c-489e-bc99-d9ed1123dfd9",
+    "name": "38",
+    "code": 130916,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "2339f449-c1df-4da8-852e-18bceb95a62c",
+    "name": "39",
+    "code": 130917,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "64744e62-4f2f-4e7b-84c8-5b98eec4f06d",
+    "name": "40",
+    "code": 130918,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "d5397bb3-076e-49fe-bf45-56ce4b8288f7",
+    "name": "41",
+    "code": 130919,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "91a36049-584e-4805-aa8e-7baf463fa40b",
+    "name": "42",
+    "code": 130920,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "537b00bc-8a4f-4969-a832-f5ed1acacef3",
+    "name": "43",
+    "code": 130921,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "8913914e-051c-44b8-bc57-00f3b8d62fb1",
+    "name": "44",
+    "code": 130922,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "1f8c4217-f3b7-47b5-b9dd-12e31a1f825c",
+    "name": "45",
+    "code": 130923,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "74604e9d-45bc-4bd7-b55b-cb3f68409289",
+    "name": "46",
+    "code": 130924,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "95cff585-b7c2-486c-9796-cf4ae0b77495",
+    "name": "47",
+    "code": 130925,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "e2475b7c-768d-4f3a-a800-afb08c402403",
+    "name": "48",
+    "code": 130926,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "8480c446-e328-4074-a91e-2cee61a50f91",
+    "name": "49",
+    "code": 130927,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "410f3360-2552-46c8-ab16-005ee16be77b",
+    "name": "50",
+    "code": 130928,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "c591c96a-79b7-48f7-b470-d33b70cd0627",
+    "name": "51",
+    "code": 130929,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "6ba10beb-0449-4d9f-8296-7616f9705f19",
+    "name": "52",
+    "code": 130930,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "490e65c5-5fc1-41ee-8bd3-d37cb2d1f38d",
+    "name": "53",
+    "code": 130931,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "d1f78702-730d-497d-8dc5-fd77da1181aa",
+    "name": "54",
+    "code": 130932,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "151773d3-e88a-4da1-9898-d6df89897f02",
+    "name": "55",
+    "code": 130933,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "c5e8ab2c-8a44-4bf5-b2dc-afabd607ae43",
+    "name": "56",
+    "code": 130934,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "7fd8ae9c-3d0a-41bf-8699-0fbb056429df",
+    "name": "57",
+    "code": 130935,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "cf0d5ac4-a110-42c8-ba0d-9460946aa2ce",
+    "name": "58",
+    "code": 130936,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "7c6807ab-3341-410f-a905-1f7235d416ac",
+    "name": "59",
+    "code": 130937,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "b94bc4cc-573f-4679-9be0-46f71353d12c",
+    "name": "60",
+    "code": 130938,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "cd554552-a700-4ff5-ae59-2b26348fc32d",
+    "name": "61",
+    "code": 130939,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "c4d329a6-e225-4031-b6b5-6678423e9b04",
+    "name": "62",
+    "code": 130940,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "3419270a-983e-4614-b92c-1521b9d2ceee",
+    "name": "63",
+    "code": 130941,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "35d185fe-3a26-49b2-b883-5938a8d9d9e2",
+    "name": "64",
+    "code": 130942,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "da668c7e-38cf-45b4-8adf-66de9e323279",
+    "name": "65",
+    "code": 130943,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "0ecfdfdd-06f5-42dc-afd0-2776ba25377f",
+    "name": "66",
+    "code": 130944,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "4ca910a6-90c6-4748-b1b3-cd3a2fba3538",
+    "name": "67",
+    "code": 130945,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "84b92c95-966d-4f5e-be3f-297aff3234aa",
+    "name": "68",
+    "code": 130946,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "205606a7-02e4-4e6f-a6bd-00b58e1c85b2",
+    "name": "69",
+    "code": 130947,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "22a54cdc-b388-4067-bd3c-b245d2052a08",
+    "name": "70",
+    "code": 130948,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "690d9b99-c4b3-4093-8097-88b8b65542ba",
+    "name": "71",
+    "code": 130949,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "5bbbfe5a-c7c6-458c-a80e-3a29e8140be6",
+    "name": "72",
+    "code": 130950,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "657bcdbd-a835-4483-8a67-2555195d6f1a",
+    "name": "73",
+    "code": 130951,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "4ef29b62-e465-4a5b-9ac3-2f6eb4e821a2",
+    "name": "74",
+    "code": 130952,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "8f848315-7e2b-437f-9d2d-bd25d63b12b1",
+    "name": "75",
+    "code": 130953,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "b6ec6f0c-0039-4d0d-9543-8bb7003d42bb",
+    "name": "76",
+    "code": 130954,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "356022da-ecaf-4705-8c1a-f3f77dfbfe19",
+    "name": "77",
+    "code": 130955,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "ad2bdbe3-7efb-463c-809c-4c3e4ebac947",
+    "name": "78",
+    "code": 130956,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "db9c4d88-e5ec-44ef-89be-3ebe90e2736c",
+    "name": "79",
+    "code": 130957,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "66000bea-6f3f-4b85-bf4d-1cc9312ae7f9",
+    "name": "80",
+    "code": 130958,
+    "subClinicRef": "beb78131-7daf-47a3-9b72-75517b6998a2"
+  },
+  {
+    "_id": "80850ab2-cfb1-4e2a-b2b2-7640e186eb73",
+    "name": "517A",
+    "code": 131083,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "192addbc-ca1f-45bc-9b3a-5a95648455b0",
+    "name": "518A",
+    "code": 131084,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "79d33ead-e280-41c2-8347-517ec23777ad",
+    "name": "602B",
+    "code": 131085,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "718c3a1b-ac0a-4e95-878b-c90f66cc7e16",
+    "name": "618B",
+    "code": 131086,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "95af3e25-6b11-416d-856e-0345acbd36f1",
+    "name": "615A",
+    "code": 131087,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "959a061e-8aa3-4626-9cd0-875367e675a1",
+    "name": "613A",
+    "code": 131088,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "cccc0823-e924-4c0e-a43d-0676753f44ef",
+    "name": "612B",
+    "code": 131089,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a6cbead2-97bd-417f-80dc-b68f5cdc0e5f",
+    "name": "613B",
+    "code": 131090,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a3875753-f391-4a0a-985d-6bf07414b914",
+    "name": "614B",
+    "code": 131091,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8f0217f2-3588-4ff8-b8db-8d99f3fc6333",
+    "name": "616B",
+    "code": 131092,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "20b3090e-7b30-4530-96a9-4b7ce7f9390e",
+    "name": "104",
+    "code": 131093,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8246a487-6f60-48d9-9c95-64caf2ba205e",
+    "name": "603B",
+    "code": 131094,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9cb2f5f8-6e81-4baa-8b32-7a28d8001a77",
+    "name": "604A",
+    "code": 131095,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "83a8d6f7-3a4d-4a62-a5be-01cacd751750",
+    "name": "604C",
+    "code": 131096,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bf7d8d7a-1c7c-481a-a1cd-81c05ce2673c",
+    "name": "605",
+    "code": 131097,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "76058ddb-1bd0-4646-9630-facdde308a03",
+    "name": "606B",
+    "code": 131098,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "04d90060-74a4-453f-9255-3cfad7ba6e2e",
+    "name": "607B",
+    "code": 131099,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e2f5bc4f-aa8e-47d3-9190-5c6b3c145d82",
+    "name": "608B",
+    "code": 131100,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ca678854-0899-4717-b83f-e4f67b25dfbe",
+    "name": "616A",
+    "code": 131101,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b57d8333-e4ef-4040-8e2d-bed5762b5057",
+    "name": "615B",
+    "code": 131102,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "55386ad4-1398-4a80-b743-7c377dbe61b5",
+    "name": "214",
+    "code": 131103,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bc512f52-2b5c-488e-b80b-eed1336f98e2",
+    "name": "108",
+    "code": 131104,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "eb6fc9be-356f-45f5-8540-725bfed90380",
+    "name": "416B",
+    "code": 131105,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "1b12d285-ee7b-4f4a-a6fd-213452e0d27c",
+    "name": "417B",
+    "code": 131106,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "cc48af2b-2c71-44ad-8137-3dead62779ce",
+    "name": "418B",
+    "code": 131107,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3f295d4e-c695-44f2-872a-246c4b241b89",
+    "name": "503B",
+    "code": 131108,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "007d1045-b848-42e6-800c-0b570a825bf4",
+    "name": "507B",
+    "code": 131109,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c1b8dbbf-0abe-4ca0-a52c-26561dbddbf0",
+    "name": "508B",
+    "code": 131110,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9d5cac82-e956-43d8-87f6-e42d54de7f8c",
+    "name": "609B",
+    "code": 131111,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "2fad971d-8bb1-4109-9a48-000a223fea8b",
+    "name": "609A",
+    "code": 131112,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "1013cc98-627e-4e69-9ef8-3d41b73e2ce1",
+    "name": "606A",
+    "code": 131113,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "6b1b034e-afaf-4896-957d-cb307cae57c2",
+    "name": "604B",
+    "code": 131114,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "50bcd2d6-ca4b-4e72-a86b-54370147df0d",
+    "name": "518B",
+    "code": 131115,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3825e641-33d2-4ffe-9e1b-b451cffa9eec",
+    "name": "517B",
+    "code": 131116,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "96d7e276-e2bb-4849-a09f-0f10a8605f03",
+    "name": "516B",
+    "code": 131117,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "66df5e2e-fb00-4fbe-b9f1-e053533d56a2",
+    "name": "611A",
+    "code": 131118,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "99ce3fcc-cab6-4b4e-84f3-db63807b9bb8",
+    "name": "610B",
+    "code": 131119,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0b1c57ce-bde8-4e16-9258-7b816cd551f8",
+    "name": "610A",
+    "code": 131120,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "48d5b0fd-1b4e-485c-abdf-26c8e9335e8c",
+    "name": "611B",
+    "code": 131121,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a343657d-b24d-4ed3-9581-66e5d8a5b1bc",
+    "name": "315",
+    "code": 131122,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "6119e80c-9e56-441f-a306-f2524db6f0ef",
+    "name": "312",
+    "code": 131123,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "43d82b3c-5cc8-47d3-b2ed-365af6dce094",
+    "name": "314",
+    "code": 131124,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "fa41cad2-3740-45de-bce5-d8b34b4316f5",
+    "name": "316",
+    "code": 131125,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "10569c5a-950b-4d19-9133-250ba694f120",
+    "name": "509A",
+    "code": 131126,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e1036cfc-9a40-4c9d-a0dc-761981c302b8",
+    "name": "507A",
+    "code": 131127,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "dff4892c-3697-4e01-83b4-98d486695b6a",
+    "name": "413B",
+    "code": 131128,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "202d5860-c5cf-428e-94c6-cbfdf73ec5ea",
+    "name": "412D",
+    "code": 131129,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "61af56c8-1bc0-46bb-b01b-16507ec882a4",
+    "name": "412B",
+    "code": 131130,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "5daf16a1-51f4-4d69-a2d1-af3e8c57e11e",
+    "name": "618A",
+    "code": 131131,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0cd7b08c-df0a-4b43-a297-7f238b9910fb",
+    "name": "617A",
+    "code": 131132,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "731bd217-5405-42f3-806a-2dcd80d5c41a",
+    "name": "614A",
+    "code": 131133,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "03a55afb-59c1-4b15-8773-e0180bbe01a8",
+    "name": "612A",
+    "code": 131134,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f3ba5c5c-e9fc-46b5-bdc5-8a478bd16ea0",
+    "name": "610C",
+    "code": 131135,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "868cf131-dc5e-427f-8f74-65772dcbda9a",
+    "name": "617B",
+    "code": 131136,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b6e65700-f12c-4a00-872b-37590983d687",
+    "name": "110",
+    "code": 131137,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0abd7df7-bb88-426f-a036-672f026de16e",
+    "name": "112",
+    "code": 131138,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "2f558c51-f12a-493b-98ce-8d04d527255f",
+    "name": "306",
+    "code": 131139,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "03868b7b-63e5-4cad-8ec8-7e9a2cc1b1ae",
+    "name": "211",
+    "code": 131140,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c181884d-9f40-46a1-a9ed-9304f82fb134",
+    "name": "310",
+    "code": 131141,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "91f058a9-262a-4831-b9ea-6932b8025f58",
+    "name": "N109",
+    "code": 131142,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d3bf052e-d76b-43dd-9e13-bbb885d7e993",
+    "name": "N409",
+    "code": 131143,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8f9e69d1-c464-4269-a634-399e4e649024",
+    "name": "N404",
+    "code": 131144,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "27939633-4e28-4baa-86a1-53c4f71b9c24",
+    "name": "N403",
+    "code": 131145,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "de738490-5569-443b-8699-e37c1090bc0d",
+    "name": "N407",
+    "code": 131146,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7479a0b8-369a-4f65-9918-21d4c5aab8e0",
+    "name": "N609B",
+    "code": 131147,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e2931087-e05c-4430-a56a-9e413bbdb127",
+    "name": "N309",
+    "code": 131148,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "144afcec-94d7-4e59-9daa-41c246db4e4f",
+    "name": "N308",
+    "code": 131149,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f59d7f71-f9b1-4ded-bc1e-d3cbdc6967e6",
+    "name": "N307",
+    "code": 131150,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d78a6c11-6399-4df6-aa5e-424d183e2b08",
+    "name": "N304",
+    "code": 131151,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3fe906ed-bd8f-4a83-b99e-9a5c3303cc1e",
+    "name": "N303",
+    "code": 131152,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4c139345-75e9-494d-b562-58f4b63b178f",
+    "name": "N302",
+    "code": 131153,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b42b2f84-c251-4459-b71b-5803b44d29cb",
+    "name": "N301",
+    "code": 131154,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "583354f3-6988-4561-9fa1-56845f415c86",
+    "name": "N216",
+    "code": 131155,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3d643abd-1574-4621-8d1f-7b5584089f4c",
+    "name": "N215",
+    "code": 131156,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bf18a5f0-a1aa-4555-8d8b-d1bc046b6f68",
+    "name": "N214",
+    "code": 131157,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "75a0a658-9506-4814-8d6b-556f0fd3890c",
+    "name": "N211",
+    "code": 131158,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ec41e40f-4645-4bfc-a050-d9133a0c5506",
+    "name": "N208",
+    "code": 131159,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a7956ec5-936c-4b36-ba16-4348fcc926e6",
+    "name": "N207",
+    "code": 131160,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8400071c-554d-461e-9fc0-4facf9ae0222",
+    "name": "N201",
+    "code": 131161,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ed555c2e-c8b6-49dd-b806-ff88154e9056",
+    "name": "N110",
+    "code": 131162,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d1467508-b20f-4765-b463-d818059cd904",
+    "name": "N107",
+    "code": 131163,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "322f8421-218c-4716-8e2b-c1d123c2d3de",
+    "name": "N106",
+    "code": 131164,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0c79910b-6194-4b36-8a2d-8e308098d89a",
+    "name": "N105",
+    "code": 131165,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7aacfb67-c1cc-4b3e-afdf-34b102ff6949",
+    "name": "N104",
+    "code": 131166,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "00bd80df-e84c-4a00-a549-c8087368d525",
+    "name": "N108",
+    "code": 131167,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c602e93a-4c89-4a07-86ac-b07a196b722d",
+    "name": "N202",
+    "code": 131168,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "199d6d52-2f09-4c2a-ada6-430d726f0146",
+    "name": "N206",
+    "code": 131169,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "6dffede9-1111-4c4d-8c07-875d0d4f6254",
+    "name": "N206A",
+    "code": 131170,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8c9c054f-89fa-4d2e-9f67-1206efe40594",
+    "name": "N212",
+    "code": 131171,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "42547e7a-a858-470e-b1bc-43fa60072539",
+    "name": "N217",
+    "code": 131172,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f1c32b67-f185-4848-b480-ea32f9226196",
+    "name": "N305",
+    "code": 131173,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3ab48121-c06b-4aba-a1cf-b277d0cd3845",
+    "name": "N306",
+    "code": 131174,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ded81c52-42f7-4a40-bd1e-208e43f201ed",
+    "name": "N406",
+    "code": 131175,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a94d59bc-5e22-4517-bfed-155c70e90c84",
+    "name": "N501",
+    "code": 131176,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "acc40779-5e6a-40be-a8b1-839c2b8405fa",
+    "name": "N514B",
+    "code": 131177,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ff33c22d-24b6-4342-aaee-242ee2b40705",
+    "name": "N616A",
+    "code": 131178,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7a86aaab-9328-4b5c-ab6c-402538619d98",
+    "name": "N604B",
+    "code": 131179,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0b6b0ef9-55e0-44ad-8aa0-18c9b61905ac",
+    "name": "N605",
+    "code": 131180,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b54d5822-fa0a-4b9a-8028-682753ba8a85",
+    "name": "N210",
+    "code": 131181,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "75d88783-f3f4-4921-9118-3fc278873ece",
+    "name": "N206B",
+    "code": 131182,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "5f5fe8ae-06ed-4ef3-a10c-9a10aab371f5",
+    "name": "N204",
+    "code": 131183,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "38e8e7df-a86e-4b73-a071-7d19611a5a83",
+    "name": "N112",
+    "code": 131184,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9ee5b0fe-a14c-47c8-bbb5-060a00992e25",
+    "name": "N205",
+    "code": 131185,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3a1fe043-4757-4463-9f5f-4e2d858666e8",
+    "name": "N206C",
+    "code": 131186,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "5079683b-96ad-4e9d-a2e2-3dd230998be8",
+    "name": "N209",
+    "code": 131187,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8feb69ff-bcd1-41e9-9625-00e946230129",
+    "name": "N213",
+    "code": 131188,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "faaf84a0-fc16-44f0-b905-6448c9d1924c",
+    "name": "N601",
+    "code": 131189,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bbfa3d49-053c-4283-ab02-e9cf365a42c7",
+    "name": "N513A",
+    "code": 131190,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "761acd4e-f864-4cc4-b3a3-04cafc252c79",
+    "name": "N509B",
+    "code": 131191,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7e7da650-44ef-486f-a346-a9c0630eae47",
+    "name": "N418B",
+    "code": 131192,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "253a26a6-8147-4ba2-bfc5-4da3459ed8f7",
+    "name": "N414",
+    "code": 131193,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b5672694-da9b-4014-abab-2c43076e9e3e",
+    "name": "N412D",
+    "code": 131194,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "2eb67d58-6aba-4f43-8540-983718fb0469",
+    "name": "N405",
+    "code": 131195,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "31917de0-6e43-469d-9e04-6c4be577b90e",
+    "name": "N402",
+    "code": 131196,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ce56aad9-0d9f-4f74-926a-2c5195617d63",
+    "name": "N401",
+    "code": 131197,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4ba151ee-e508-44d5-8781-824e5df0d63b",
+    "name": "N318",
+    "code": 131198,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "d756675a-4ec6-41db-bfd5-29935141b549",
+    "name": "N317",
+    "code": 131199,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "59255023-6690-4ac6-8476-3264c576525b",
+    "name": "N314",
+    "code": 131200,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "6f9d811d-cdc9-4887-81e0-27d0d07251bc",
+    "name": "N310",
+    "code": 131201,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "686d60bb-70f5-4575-a19c-9ce743b89f62",
+    "name": "N617A",
+    "code": 131202,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9d2eaed6-57d0-48ec-a0ce-de15c2d32e15",
+    "name": "N615B",
+    "code": 131203,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "800b7b65-071c-408d-81d6-57b661c7f69f",
+    "name": "N614B",
+    "code": 131204,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "344cca8a-2a76-4b4e-abe9-1edb4eb354d2",
+    "name": "N607B",
+    "code": 131205,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0b5b26e0-4b82-4cf0-8add-e37fc46f7a1a",
+    "name": "N203",
+    "code": 131206,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "fbde8f45-2021-47c1-8bb4-7fe240ccbdfa",
+    "name": "N511B",
+    "code": 131207,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7a970fab-05fc-4180-afef-1144a047ddc2",
+    "name": "N510B",
+    "code": 131208,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "39d66c11-0178-4c05-afc8-34fbbac4a09a",
+    "name": "N408",
+    "code": 131209,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a001bed8-9842-46d6-b7a6-65f35ec174b7",
+    "name": "N315",
+    "code": 131210,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b98363ed-7fc1-4aad-95ca-ffde2c93d998",
+    "name": "N517A",
+    "code": 131211,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a4bdb880-2ffa-44b3-9925-fb8677ef69d6",
+    "name": "N518A",
+    "code": 131212,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "b187f33f-dcd9-4634-bb9d-73fbe020ce0c",
+    "name": "N518B",
+    "code": 131213,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "bc7eba2f-6487-458b-a3f1-4a4d626b7aec",
+    "name": "N517B",
+    "code": 131214,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f3f8573c-2800-4be4-b737-5d7ebef8e245",
+    "name": "N516A",
+    "code": 131215,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3ee861ec-6070-490d-8cd3-a57fab04163a",
+    "name": "N515A",
+    "code": 131216,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "6894023a-d817-4ef2-8d67-20a56f73db8d",
+    "name": "N514A",
+    "code": 131217,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e5813fef-4f8e-4ffd-9168-a16f7aa06a24",
+    "name": "N417B",
+    "code": 131218,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9362221e-885a-46df-b769-dd8d9342d4eb",
+    "name": "N416",
+    "code": 131219,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "26fb2065-4c65-49fa-9b68-652e2e0e54f3",
+    "name": "N411",
+    "code": 131220,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "28747033-4799-4cc0-8bb6-fc58d4bd718f",
+    "name": "N316",
+    "code": 131221,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "80d0053f-be9f-432a-bda1-7b6ce2c1f9fe",
+    "name": "N313",
+    "code": 131222,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c67015a1-06da-459a-ac4d-12528d867f9d",
+    "name": "N312",
+    "code": 131223,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "710c9a7e-73b7-42a2-81e7-214bd6f49144",
+    "name": "N311",
+    "code": 131224,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "85f9b9c8-57b3-4847-afa4-e87193b793c0",
+    "name": "N410",
+    "code": 131225,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "31c7e301-fb61-4b66-9b8d-0097d139b7f3",
+    "name": "N412C",
+    "code": 131226,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "a17d93d5-107a-4222-91cc-f0318301d653",
+    "name": "N413C",
+    "code": 131227,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "7058eb1f-cef8-4e35-9dc5-b2897827ef57",
+    "name": "N415",
+    "code": 131228,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "483889c1-2304-4cdf-b1f3-cea862397ac9",
+    "name": "N417",
+    "code": 131229,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "97fa1d2b-2336-426f-8075-4d28398e2643",
+    "name": "N418A",
+    "code": 131230,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8c08141a-4ddb-4350-a2e8-42f4900a480a",
+    "name": "N505",
+    "code": 131231,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "c52b3e22-dbe9-45c4-a372-00bd3f051a3e",
+    "name": "N510A",
+    "code": 131232,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "df796c34-24a8-4716-93e7-eed71f1df550",
+    "name": "N511A",
+    "code": 131233,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e79f5162-24f1-4008-9eab-e9c9962dd471",
+    "name": "N512A",
+    "code": 131234,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "53a0010c-1367-4863-9dd3-089cea391093",
+    "name": "N512B",
+    "code": 131235,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "5ff1fecd-1573-42ba-bf87-2e32c76c16a3",
+    "name": "N513B",
+    "code": 131236,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "1c147e17-c47e-4c78-9cf7-240caeda024f",
+    "name": "N515B",
+    "code": 131237,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "63ab5121-92dd-4d29-adfd-18180102331e",
+    "name": "N516B",
+    "code": 131238,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ed44a729-04c2-4db5-98c2-3942e66a6fb0",
+    "name": "N618B",
+    "code": 131239,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "972ae53a-f470-42d3-86d5-76b83f07d8f0",
+    "name": "N618A",
+    "code": 131240,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "e73068de-6e1b-4c12-b7d9-9706defd8fa4",
+    "name": "N613B",
+    "code": 131241,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "6ae730ba-5a01-4fed-85af-5a56819b2cf9",
+    "name": "N612B",
+    "code": 131242,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "265967ff-7d33-4f1e-9cd0-53b416948665",
+    "name": "N611B",
+    "code": 131243,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3e83a39e-8ea5-49ae-81d9-b8de26c230b7",
+    "name": "N610B",
+    "code": 131244,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "5df3e583-f8e3-4a0e-8460-e6e3fc8ad4cb",
+    "name": "N608B",
+    "code": 131245,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0894a27b-4da5-47ab-b871-f49a9df67ef5",
+    "name": "N606B",
+    "code": 131246,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "4f6b6b7a-4566-4759-94e7-ae9f8f41a3ed",
+    "name": "N604C",
+    "code": 131247,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f7c8473e-93ff-4295-9dab-31f8dc856180",
+    "name": "N604A",
+    "code": 131248,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "986c4da0-a6f5-4a34-b2d0-c335222e7bef",
+    "name": "N603C",
+    "code": 131249,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0d3dd852-2a06-4e80-b2c7-39bc64606a6e",
+    "name": "N603A",
+    "code": 131250,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "508eacdd-38d8-441c-9b89-0d619b1685a1",
+    "name": "N602B",
+    "code": 131251,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "08087831-c3a1-442a-ab5b-953d96e89766",
+    "name": "N602A",
+    "code": 131252,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "55573e18-9668-4a57-abbd-470a238b9d42",
+    "name": "N603B",
+    "code": 131253,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "0bb2a0b1-fd07-4691-aa7f-6109ef035578",
+    "name": "N606A",
+    "code": 131254,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "1173f22c-ec43-43dc-85cb-f93a7339aa8a",
+    "name": "N608A",
+    "code": 131255,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "ebd7e901-e5f7-432c-9b41-92e9f6aee33d",
+    "name": "N610A",
+    "code": 131256,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "35fa9c5b-2dfb-4634-8bed-e6a0f330486a",
+    "name": "N611A",
+    "code": 131257,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "2901a089-e92f-436f-95bc-1ebcf59b7c66",
+    "name": "N612A",
+    "code": 131258,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "f66ec074-85b5-4a43-b338-9adc01a42aa0",
+    "name": "N607A",
+    "code": 131259,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8513a8ae-394c-4de4-8566-73bd2057d3fb",
+    "name": "N609A",
+    "code": 131260,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "2c892066-7363-4a2b-bf22-3b316902b8ec",
+    "name": "N613A",
+    "code": 131261,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "9e86da73-d79c-434f-8d38-e4de75fd5745",
+    "name": "N614A",
+    "code": 131262,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "86c3a612-3dd7-46ae-a94d-6856d44719c2",
+    "name": "N615A",
+    "code": 131263,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "8c60f58e-d537-4d16-8f0d-837805e62560",
+    "name": "N616B",
+    "code": 131264,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "695187ca-bf98-4ab5-bd38-18e03b2fefd6",
+    "name": "N617B",
+    "code": 131265,
+    "subClinicRef": "b9efb1fc-0930-4a1c-9a18-5b8ccbbffb1e"
+  },
+  {
+    "_id": "3e52541a-3e01-44c4-8fbb-1fa23d78d488",
+    "name": "สม99",
+    "code": 131266,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "437b1727-3b0b-4c71-a92b-b29eff4ba44b",
+    "name": "สม5",
+    "code": 131267,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "2dfd9def-db2e-47d6-9715-25a55a37e240",
+    "name": "สม52",
+    "code": 131268,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "0e4bce1f-629e-43a3-a15f-1cbd79169bf6",
+    "name": "สม54",
+    "code": 131269,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "2ba1afc8-41da-4bca-a4d5-618176eb71d4",
+    "name": "สม58",
+    "code": 131270,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5faeb034-164b-452c-9f67-181353d7d357",
+    "name": "สม6",
+    "code": 131271,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "248a3e9d-806f-4f2b-b94e-b9a6f3040936",
+    "name": "สม61",
+    "code": 131272,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5ab4df23-0339-4dee-bae6-30fd40f9fed3",
+    "name": "สม63",
+    "code": 131273,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "312f4c13-44eb-4d67-be0b-971d20c92d02",
+    "name": "สม8",
+    "code": 131274,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "ad9ce848-37d6-40c5-bc7e-659b5319ee16",
+    "name": "สม81",
+    "code": 131275,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7570c3a4-f116-404b-b479-69873d58dea0",
+    "name": "สม95",
+    "code": 131276,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "63b5234a-769d-43d3-b898-8f2b8d3142cc",
+    "name": "สม93",
+    "code": 131277,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a6a8fcdc-66c5-4991-bb60-0905c4bf1837",
+    "name": "สม91",
+    "code": 131278,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1becea17-6fed-433c-a12a-dc2b6bc7a638",
+    "name": "สม84",
+    "code": 131279,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "363e4d73-4df2-44bc-bc3f-dc2eb03b9aac",
+    "name": "สม82",
+    "code": 131280,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "50d60916-0c13-4546-ac0c-8f98e44732e1",
+    "name": "สม80",
+    "code": 131281,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "9e4ba4a6-ca6f-4b81-9c3b-6e233c9356cd",
+    "name": "สม65",
+    "code": 131282,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "c719df7c-cb96-441a-a31c-c86e46bada31",
+    "name": "สม67",
+    "code": 131283,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7c1260b2-68e0-4765-8b1c-e7e018944596",
+    "name": "สม69",
+    "code": 131284,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "e5551407-2596-40f8-af02-aecf8e2c5efb",
+    "name": "สม70",
+    "code": 131285,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7a833cdf-9ef4-4f95-8df8-a5d7a74624fb",
+    "name": "สม72",
+    "code": 131286,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "98b0bbfd-3383-4f5e-b8d3-8b7312a6192f",
+    "name": "สม76",
+    "code": 131287,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d18d0c0c-7fe8-40cd-aeb6-728eb9a6016c",
+    "name": "สม78",
+    "code": 131288,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a22d2f74-123e-4b8d-bc7e-067cfc3df3c7",
+    "name": "สม83",
+    "code": 131289,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "7e34ef06-17c8-4ee9-a348-163013b64dff",
+    "name": "สม87",
+    "code": 131290,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "f575e94f-7349-453d-8ec9-0f31625f2bcc",
+    "name": "สม89",
+    "code": 131291,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "6ed335bb-9da8-4a26-9168-84f3574ac582",
+    "name": "สม90",
+    "code": 131292,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "4d2c853e-4a59-4e76-b80b-7858ba98fb77",
+    "name": "สม98",
+    "code": 131293,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "bbbc925f-87c1-4209-bad3-9c88321cf96a",
+    "name": "สม97",
+    "code": 131294,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "700e4b26-8d2c-4268-a3d3-4a18cc6289a0",
+    "name": "สม79",
+    "code": 131295,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1e5c430c-2c70-476e-b309-f21010c71d66",
+    "name": "สม75",
+    "code": 131296,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "85b405a2-2e7b-425e-a6f7-c6ea618d3ab8",
+    "name": "สม53",
+    "code": 131297,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "5eca0041-1476-434e-8be7-92baf36fb663",
+    "name": "สม51",
+    "code": 131298,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "40a36fc3-22d8-4c28-8c00-d6e41fd53f7c",
+    "name": "สม50",
+    "code": 131299,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "243adad5-cbe6-4858-8a3a-48ff3eb7dede",
+    "name": "สม56",
+    "code": 131300,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "857115f7-19fd-40a2-9099-95eb61b8dd36",
+    "name": "สม74",
+    "code": 131301,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "95e48915-e0a3-461a-ae70-623c986b188e",
+    "name": "สม86",
+    "code": 131302,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "ad504e3b-f820-4aea-bb39-99026bc3d836",
+    "name": "สม92",
+    "code": 131303,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "d3f8a446-e7dd-49b4-8280-06d8dc0d6055",
+    "name": "สม94",
+    "code": 131304,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "b04a2d28-154a-4c67-886b-c6c46fa9e409",
+    "name": "สม96",
+    "code": 131305,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "8064fe5f-d825-416e-b985-9aeaad264482",
+    "name": "สม9",
+    "code": 131306,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a64abb2d-f531-401e-a42d-0b7d88134a91",
+    "name": "สม88",
+    "code": 131307,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "daef9879-dd65-45a7-8ac7-e6fa3b5b167c",
+    "name": "สม85",
+    "code": 131308,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "8db67a7f-7ca9-4f18-b40e-2a06c942d30d",
+    "name": "สม77",
+    "code": 131309,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "3ce15f9f-9a1b-43f7-895f-31a9e24b09d4",
+    "name": "สม73",
+    "code": 131310,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1830b29a-780b-4317-9a90-a3a48a77bd38",
+    "name": "สม71",
+    "code": 131311,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "46aba9e0-2709-46d0-9e5a-3582b8ecea4b",
+    "name": "สม7",
+    "code": 131312,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "8b996cf5-14ac-49a9-b314-a7032f5f1eac",
+    "name": "สม68",
+    "code": 131313,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "453bce65-dba8-4702-9476-f1d06e27f11e",
+    "name": "สม66",
+    "code": 131314,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1ea40ef6-4fe7-4088-a46e-d0625cf2d8ef",
+    "name": "สม62",
+    "code": 131315,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "da1d46a9-598b-47ae-9209-005f8fe0c67c",
+    "name": "สม60",
+    "code": 131316,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1155d6d0-8719-4691-afe3-8276e1a81a06",
+    "name": "สม59",
+    "code": 131317,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "c082c067-caf8-49d8-a2f2-25ee5ee53503",
+    "name": "สม57",
+    "code": 131318,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "1ac7559b-ba43-42a1-8fb5-9570f2f9ff75",
+    "name": "สม55",
+    "code": 131319,
+    "subClinicRef": "c979fb20-8fcd-4a11-a615-4a3a12d47fd5"
+  },
+  {
+    "_id": "a833231d-1d72-456c-bb18-44d1e83d9a1f",
+    "name": "ห้อง 7",
+    "code": 131320,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "d98a6654-a3ed-44f9-b062-75bd28626ed4",
+    "name": "ห้อง 5",
+    "code": 131321,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "23b807be-c379-4ac2-8359-709b3bc4a245",
+    "name": "ห้อง 8",
+    "code": 131322,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "72303f39-ed41-4120-9b1d-5df4c3299185",
+    "name": "ห้อง 1",
+    "code": 131323,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "8b29d00a-205b-419a-bd8e-3e40d534a7e6",
+    "name": "ห้อง 6",
+    "code": 131324,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "8641e6b8-b1a4-4b34-a0a3-7e6c793a0f36",
+    "name": "ห้อง10",
+    "code": 131325,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "2c569889-e5b7-4805-ad0f-60d07ddabaf9",
+    "name": "ห้อง 3",
+    "code": 131326,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "2828ee54-2f08-4667-9b38-7d83eb95b966",
+    "name": "ห้อง 2",
+    "code": 131327,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "ec641a9e-fc33-4437-8ecf-f6e3ee3dba3b",
+    "name": "Nห้อง 3",
+    "code": 131328,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "d5489f18-eed4-4a61-b067-b13315d941b3",
+    "name": "Nห้อง 5",
+    "code": 131329,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "95803c6f-1da9-4cb8-a535-0760cdb344c6",
+    "name": "Nห้อง 1",
+    "code": 131330,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "96a85028-1844-4c9c-b0a9-e73eedbf5160",
+    "name": "Nห้อง 2",
+    "code": 131331,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "db4e4b47-21bb-475d-bcee-92a3ef5c4916",
+    "name": "Nห้อง 4",
+    "code": 131332,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "25066ac6-d597-4e2f-9096-118908a48e72",
+    "name": "Nห้อง10",
+    "code": 131333,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "a6f927b9-03c3-41c5-90b7-afadefdc2ee4",
+    "name": "Nห้อง 8",
+    "code": 131334,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "5ed82e63-4ef7-423d-bf52-0ccb718913be",
+    "name": "Nห้อง 7",
+    "code": 131335,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "4d87b5fc-ffe7-45fb-8d50-a4fe6c7e8984",
+    "name": "Nห้อง 6",
+    "code": 131336,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "6c0e061b-6cba-4693-897b-ac2254f33bde",
+    "name": "Nห้อง 9",
+    "code": 131337,
+    "subClinicRef": "25c3689d-6da9-454e-8b20-e1b08ee1d389"
+  },
+  {
+    "_id": "cd244751-c4ca-46d4-8b9f-1e68a4c56582",
+    "code": 210001,
+    "type": "medical-record",
+    "name": "จุดเวชระเบียนทีปังกรช่อง 1",
+    "physicalType": "other",
+    "departmentRef": "2653ec27-b3ab-4c98-b390-8215b45ad50a",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "9dd526d1-6837-4ba2-85f9-b050cef4c0a7"
+  },
+  {
+    "_id": "37756e5c-83ac-4734-9245-66bccf0e69bf",
+    "code": 210002,
+    "type": "medical-record",
+    "name": "จุดเวชระเบียนทีปังกรช่อง 2",
+    "physicalType": "other",
+    "departmentRef": "2653ec27-b3ab-4c98-b390-8215b45ad50a",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "9dd526d1-6837-4ba2-85f9-b050cef4c0a7"
+  },
+  {
+    "_id": "c2a337dc-040f-495f-985a-6db4d555aa38",
+    "code": 200001,
+    "type": "screening",
+    "name": "จุดตรวจคัดกรองที่ปังกรช่อง 1",
+    "physicalType": "other",
+    "departmentRef": "154b7ce5-c2bd-478b-891c-2d2de0f59465",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "c94ce5d2-8354-45cb-b63c-f9fc718c475a"
+  },
+  {
+    "_id": "29a00e61-ba1f-4499-86ce-f417ad359795",
+    "code": 200002,
+    "type": "screening",
+    "name": "จุดตรวจคัดกรองที่ปังกรช่อง 2",
+    "physicalType": "other",
+    "departmentRef": "154b7ce5-c2bd-478b-891c-2d2de0f59465",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "c94ce5d2-8354-45cb-b63c-f9fc718c475a"
+  },
+  {
+    "_id": "47fa55e9-7f48-4fe4-ae0d-d1ee07289944",
+    "code": 210001,
+    "type": "pharmacy",
+    "name": "จุดรับยาทีปังกร ช่อง 1",
+    "physicalType": "other",
+    "departmentRef": "154b7ce5-c2bd-478b-891c-2d2de0f59465",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "dcc9f2bf-dc72-4b0f-9933-86334eba49ed"
+  },
+  {
+    "_id": "cd2c79b0-836d-4cea-884f-d48404aba372",
+    "code": 210002,
+    "type": "pharmacy",
+    "name": "จุดรับยาทีปังกร ช่อง 2",
+    "physicalType": "other",
+    "departmentRef": "154b7ce5-c2bd-478b-891c-2d2de0f59465",
+    "identifiers": [
+      {
+        "system": "lctsyn",
+        "value": 51
+      }
+    ],
+    "subClinicRef": "dcc9f2bf-dc72-4b0f-9933-86334eba49ed"
+  }
+]
