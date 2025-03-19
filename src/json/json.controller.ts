@@ -59,9 +59,28 @@ export class JsonController {
         subClinicRef: item._id,
       };
     });
-
-    console.log(newLocation);
-    return newLocation;
+    const sumLocation = [...location, ...newLocation];
+    const finit = sumLocation.map((item) => {
+      let type = item.type;
+      if (!type) {
+        const subClinicItem = subClinic.find(
+          (sub) => sub._id === item.subClinicRef,
+        );
+        if (subClinicItem) {
+          type = subClinicItem.type;
+        }
+      }
+      return {
+        _id: item._id,
+        ...item,
+        type: type,
+      };
+    });
+    fs.writeFileSync(
+      path.join(__dirname, '../../src/json/entities/newLocation.seed.json'),
+      JSON.stringify(finit, null, 2),
+    );
+    return finit;
   }
 
   @Get(':id')
